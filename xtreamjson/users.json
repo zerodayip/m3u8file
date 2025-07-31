@@ -1,0 +1,26 @@
+{
+  "kullanici1": {
+    "password": "sifre1",
+    "exp_date": "01-01-2026"
+  },
+  "iduymaz": {
+    "password": "izocum",
+    "exp_date": null
+  },
+  "bodrum": {
+    "password": "sifrebodrum",
+    "exp_date": null
+  },
+  "aydin": {
+    "password": "sifreaydin",
+    "exp_date": null
+  },
+  "eskisehir": {
+    "password": "sifreeskisehir",
+    "exp_date": null
+  },
+  "eskisehir2": {
+    "password": "sifreeskisehir2",
+    "exp_date": null
+  }
+}
