@@ -8,6 +8,8 @@ https://goldvod.org/tv/vavoo?id=1771137539fa2adff8ebd5
 https://goldvod.org/tv/vavoo?id=207886293750ec015d3e85
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: EUROSPORT 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: EUROSPORT 2 HD
 https://goldvod.org/tv/vavoo?id=41172279629184f8c9c408
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: EXXEN TV" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: EXXEN TV
+https://goldvod.org/tv/vavoo?id=1944695268eb5e2a66f22
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: S SPORT" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: S SPORT
 https://goldvod.org/tv/vavoo?id=21232735984a3f0b463d66
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: S SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: S SPORT 2
@@ -196,6 +198,8 @@ https://goldvod.org/tv/vavoo?id=37183362955b988ce99242
 https://goldvod.org/tv/vavoo?id=1313768516926dc999c43b
 #EXTINF:-1 tvg-id="None" tvg-name="S SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT 2
 https://goldvod.org/tv/vavoo?id=1234604880d226de6d47be
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT+3 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT+3 MAC SAATI
+https://goldvod.org/tv/vavoo?id=3269372326de5ff1a4d9d7
 #EXTINF:-1 tvg-id="None" tvg-name="S SPORT+4 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT+4 MAC SAATI
 https://goldvod.org/tv/vavoo?id=1507829436cb5aa4fb5b34
 #EXTINF:-1 tvg-id="None" tvg-name="S-SPORT 1 UHD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT 1 UHD
@@ -335,8 +339,6 @@ https://goldvod.org/tv/vavoo?id=17029379329ed4b84db05f
 #EXTINF:-1 tvg-id="None" tvg-name="24 HABER HD+ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TÜRKİYE 🇹🇷", 24 HABER HD+ SD
 https://goldvod.org/tv/vavoo?id=3828793616b62b9cc5834c
 #EXTINF:-1 tvg-id="None" tvg-name="24 KITCHEN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TÜRKİYE 🇹🇷", 24 KITCHEN
-https://goldvod.org/tv/vavoo?id=329569928726734a4497dc
-#EXTINF:-1 tvg-id="None" tvg-name="24 KITCHEN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TÜRKİYE 🇹🇷", 24 KITCHEN
 https://goldvod.org/tv/vavoo?id=332950484357e3f01f03c1
 #EXTINF:-1 tvg-id="None" tvg-name="24 KITCHEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TÜRKİYE 🇹🇷", 24 KITCHEN HD
 https://goldvod.org/tv/vavoo?id=42853502477bb17264f322
@@ -360,6 +362,8 @@ https://goldvod.org/tv/vavoo?id=473300573b9945e4c1fe4
 https://goldvod.org/tv/vavoo?id=1064954896a21f89fb6b5c
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: A2 HD" tvg-logo="" group-title="TÜRKİYE 🇹🇷", 4K TR: A2 HD
 https://goldvod.org/tv/vavoo?id=201905527745e40d41f657
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: AK T TV HD" tvg-logo="" group-title="TÜRKİYE 🇹🇷", 4K TR: AK T TV HD
+https://goldvod.org/tv/vavoo?id=344558568784e9a5583953
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: ATV HD" tvg-logo="" group-title="TÜRKİYE 🇹🇷", 4K TR: ATV HD
 https://goldvod.org/tv/vavoo?id=2325261286cc81b01cf95d
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: BABYTV" tvg-logo="" group-title="TÜRKİYE 🇹🇷", 4K TR: BABYTV
@@ -551,6 +555,8 @@ https://goldvod.org/tv/vavoo?id=19057497795e890277f212
 #EXTINF:-1 tvg-id="None" tvg-name="A2 TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="TÜRKİYE 🇹🇷", A2 TV SD
 https://goldvod.org/tv/vavoo?id=1835847966e01d08f3ea1f
 #EXTINF:-1 tvg-id="None" tvg-name="ADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b2/Adalogo.jpg" group-title="TÜRKİYE 🇹🇷", ADA TV
+https://goldvod.org/tv/vavoo?id=42259617152e399e6d2ef0
+#EXTINF:-1 tvg-id="None" tvg-name="ADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b2/Adalogo.jpg" group-title="TÜRKİYE 🇹🇷", ADA TV
 https://goldvod.org/tv/vavoo?id=21347352852305a53dccfa
 #EXTINF:-1 tvg-id="None" tvg-name="ADANA TV" tvg-logo="https://img.freepik.com/free-vector/old-vintage-television-isolated_1308-119352.jpg?ga=GA1.1.1185136723.1745939246&semt=ais_hybrid&w=740" group-title="TÜRKİYE 🇹🇷", ADANA TV
 https://goldvod.org/tv/vavoo?id=225124967e1e5b6a748e0
@@ -665,6 +671,8 @@ https://goldvod.org/tv/vavoo?id=64543153093b2057929eb
 #EXTINF:-1 tvg-id="None" tvg-name="AUTOMOTO" tvg-logo="https://img.freepik.com/free-vector/old-vintage-television-isolated_1308-119352.jpg?ga=GA1.1.1185136723.1745939246&semt=ais_hybrid&w=740" group-title="TÜRKİYE 🇹🇷", AUTOMOTO
 https://goldvod.org/tv/vavoo?id=3033512963c208a7f26dc2
 #EXTINF:-1 tvg-id="None" tvg-name="AV TV" tvg-logo="" group-title="TÜRKİYE 🇹🇷", AV TV
+https://goldvod.org/tv/vavoo?id=154080342742a01f2d589
+#EXTINF:-1 tvg-id="None" tvg-name="AV TV" tvg-logo="" group-title="TÜRKİYE 🇹🇷", AV TV
 https://goldvod.org/tv/vavoo?id=334323069104712e8a0a89
 #EXTINF:-1 tvg-id="None" tvg-name="BABA RADYO ARABESK" tvg-logo="https://image.shutterstock.com/image-vector/music-logo-letter-s-musical-260nw-2475563501.jpg" group-title="TÜRKİYE 🇹🇷", BABA RADYO ARABESK
 https://goldvod.org/tv/vavoo?id=40965694547a9def110e6c
@@ -776,34 +784,40 @@ https://goldvod.org/tv/vavoo?id=3677880546b91991c857cd
 https://goldvod.org/tv/vavoo?id=6514779186cc7b7123e0b
 #EXTINF:-1 tvg-id="None" tvg-name="BEST AKSIYON" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST AKSIYON
 https://goldvod.org/tv/vavoo?id=40086029281eab28e64579
+#EXTINF:-1 tvg-id="None" tvg-name="BEST ANIMASYON" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST ANIMASYON
+https://goldvod.org/tv/vavoo?id=182242511854592ad20a83
 #EXTINF:-1 tvg-id="None" tvg-name="BEST BILIMKURGU" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST BILIMKURGU
 https://goldvod.org/tv/vavoo?id=1566323467670298603f5b
 #EXTINF:-1 tvg-id="None" tvg-name="BEST DRAM" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST DRAM
 https://goldvod.org/tv/vavoo?id=4099015608239c33b463bc
 #EXTINF:-1 tvg-id="None" tvg-name="BEST FM T RK E POP" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST FM T RK E POP
 https://goldvod.org/tv/vavoo?id=2591986518ae00754c4ef2
+#EXTINF:-1 tvg-id="None" tvg-name="BEST HABABAM SINIFI" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST HABABAM SINIFI
+https://goldvod.org/tv/vavoo?id=4228481876db7dd6acf5b
 #EXTINF:-1 tvg-id="None" tvg-name="BEST IMBD" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST IMBD
 https://goldvod.org/tv/vavoo?id=19675163050cdefd6160c5
-#EXTINF:-1 tvg-id="None" tvg-name="BEST KOMEDI" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST KOMEDI
-https://goldvod.org/tv/vavoo?id=17233265984e83c5ef5947
 #EXTINF:-1 tvg-id="None" tvg-name="BEST KORKU" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST KORKU
 https://goldvod.org/tv/vavoo?id=2298271695faed3c96249f
 #EXTINF:-1 tvg-id="None" tvg-name="BEST LOCA 1" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST LOCA 1
 https://goldvod.org/tv/vavoo?id=1063857052f07e2eec0c52
 #EXTINF:-1 tvg-id="None" tvg-name="BEST LOCA 2" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST LOCA 2
 https://goldvod.org/tv/vavoo?id=20264594681bd1479ca3f0
+#EXTINF:-1 tvg-id="None" tvg-name="BEST LOCA 3" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST LOCA 3
+https://goldvod.org/tv/vavoo?id=116873446031ff5e217441
 #EXTINF:-1 tvg-id="None" tvg-name="BEST NETFLIX" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST NETFLIX
 https://goldvod.org/tv/vavoo?id=35317279904b909276b540
-#EXTINF:-1 tvg-id="None" tvg-name="BEST SALON 1" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST SALON 1
-https://goldvod.org/tv/vavoo?id=2585357317352fbfd92833
-#EXTINF:-1 tvg-id="None" tvg-name="BEST SALON 2" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST SALON 2
-https://goldvod.org/tv/vavoo?id=37198947412070cf7796ed
 #EXTINF:-1 tvg-id="None" tvg-name="BEST SALON 3" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST SALON 3
 https://goldvod.org/tv/vavoo?id=37723339252eec59344208
 #EXTINF:-1 tvg-id="None" tvg-name="BEST SAVAS" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST SAVAS
 https://goldvod.org/tv/vavoo?id=13586163859ba90852bd44
+#EXTINF:-1 tvg-id="None" tvg-name="BEST SAVAS" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST SAVAS
+https://goldvod.org/tv/vavoo?id=13586163859ba90852bd44
 #EXTINF:-1 tvg-id="None" tvg-name="BEST TURK" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST TURK
 https://goldvod.org/tv/vavoo?id=11961982805779396d2f21
+#EXTINF:-1 tvg-id="None" tvg-name="BEST TURK" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST TURK
+https://goldvod.org/tv/vavoo?id=11961982805779396d2f21
+#EXTINF:-1 tvg-id="None" tvg-name="BEST WESTERN" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST WESTERN
+https://goldvod.org/tv/vavoo?id=1324126222234c1f7f8a74
 #EXTINF:-1 tvg-id="None" tvg-name="BEST WESTERN" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST WESTERN
 https://goldvod.org/tv/vavoo?id=1324126222234c1f7f8a74
 #EXTINF:-1 tvg-id="None" tvg-name="BEST YESILCAM" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEST YESILCAM
@@ -812,10 +826,6 @@ https://goldvod.org/tv/vavoo?id=36523472636e2b2a3ca9ec
 https://goldvod.org/tv/vavoo?id=36523472636e2b2a3ca9ec
 #EXTINF:-1 tvg-id="None" tvg-name="BEYAZ HD+ SD" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEYAZ HD+ SD
 https://goldvod.org/tv/vavoo?id=1020985035552180fe7152
-#EXTINF:-1 tvg-id="None" tvg-name="BEYAZ HD+ SD" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEYAZ HD+ SD
-https://goldvod.org/tv/vavoo?id=1020985035552180fe7152
-#EXTINF:-1 tvg-id="None" tvg-name="BEYAZ TV" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEYAZ TV
-https://goldvod.org/tv/vavoo?id=34182375310e960a426e1c
 #EXTINF:-1 tvg-id="None" tvg-name="BEYAZ TV" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEYAZ TV
 https://goldvod.org/tv/vavoo?id=34182375310e960a426e1c
 #EXTINF:-1 tvg-id="None" tvg-name="BEYAZ TV" tvg-logo="" group-title="TÜRKİYE 🇹🇷", BEYAZ TV
@@ -1114,6 +1124,8 @@ https://goldvod.org/tv/vavoo?id=2483365482c48056254ba2
 https://goldvod.org/tv/vavoo?id=855745980e86f566e4e12
 #EXTINF:-1 tvg-id="None" tvg-name="DREAM DRAM" tvg-logo="" group-title="TÜRKİYE 🇹🇷", DREAM DRAM
 https://goldvod.org/tv/vavoo?id=3548409764f53722499655
+#EXTINF:-1 tvg-id="None" tvg-name="DREAM KEMAL SUNAL" tvg-logo="" group-title="TÜRKİYE 🇹🇷", DREAM KEMAL SUNAL
+https://goldvod.org/tv/vavoo?id=95010505e71c34846cce
 #EXTINF:-1 tvg-id="None" tvg-name="DREAM KOMEDI" tvg-logo="" group-title="TÜRKİYE 🇹🇷", DREAM KOMEDI
 https://goldvod.org/tv/vavoo?id=330122636235999c4a5f41
 #EXTINF:-1 tvg-id="None" tvg-name="DREAM KORKU" tvg-logo="" group-title="TÜRKİYE 🇹🇷", DREAM KORKU
@@ -1198,6 +1210,8 @@ https://goldvod.org/tv/vavoo?id=38337533385e11d005954b
 https://goldvod.org/tv/vavoo?id=22336872173761a2f4bc0f
 #EXTINF:-1 tvg-id="None" tvg-name="ENO VIZYON 1" tvg-logo="" group-title="TÜRKİYE 🇹🇷", ENO VIZYON 1
 https://goldvod.org/tv/vavoo?id=1949742603d0b9dbc5b085
+#EXTINF:-1 tvg-id="None" tvg-name="ENO VIZYON 10" tvg-logo="" group-title="TÜRKİYE 🇹🇷", ENO VIZYON 10
+https://goldvod.org/tv/vavoo?id=16353843521c8bc85d3257
 #EXTINF:-1 tvg-id="None" tvg-name="ENO VIZYON 11" tvg-logo="" group-title="TÜRKİYE 🇹🇷", ENO VIZYON 11
 https://goldvod.org/tv/vavoo?id=15451969449f4d1501d4d6
 #EXTINF:-1 tvg-id="None" tvg-name="ENO VIZYON 12" tvg-logo="" group-title="TÜRKİYE 🇹🇷", ENO VIZYON 12
@@ -1344,6 +1358,10 @@ https://goldvod.org/tv/vavoo?id=137618031334f1d315d6c4
 https://goldvod.org/tv/vavoo?id=2456232539a0f9283d418b
 #EXTINF:-1 tvg-id="None" tvg-name="GLOBAL BOX COMEDY" tvg-logo="" group-title="TÜRKİYE 🇹🇷", GLOBAL BOX COMEDY
 https://goldvod.org/tv/vavoo?id=18280597356594959726c2
+#EXTINF:-1 tvg-id="None" tvg-name="GLOBAL BOX DRAM" tvg-logo="" group-title="TÜRKİYE 🇹🇷", GLOBAL BOX DRAM
+https://goldvod.org/tv/vavoo?id=1040144724c843e127b1f8
+#EXTINF:-1 tvg-id="None" tvg-name="GLOBAL BOX FANTASTIC" tvg-logo="" group-title="TÜRKİYE 🇹🇷", GLOBAL BOX FANTASTIC
+https://goldvod.org/tv/vavoo?id=155746504623fb5cc3759d
 #EXTINF:-1 tvg-id="None" tvg-name="GLOBAL BOX KEMAL SUNAL" tvg-logo="" group-title="TÜRKİYE 🇹🇷", GLOBAL BOX KEMAL SUNAL
 https://goldvod.org/tv/vavoo?id=4275446197442fb43a2e5e
 #EXTINF:-1 tvg-id="None" tvg-name="GLOBAL BOX KORKU" tvg-logo="" group-title="TÜRKİYE 🇹🇷", GLOBAL BOX KORKU
@@ -1694,8 +1712,6 @@ https://goldvod.org/tv/vavoo?id=108814985093ce0bbbf5d6
 https://goldvod.org/tv/vavoo?id=40628667609eeef2c85a17
 #EXTINF:-1 tvg-id="None" tvg-name="MARVEL STUDIOS 4" tvg-logo="" group-title="TÜRKİYE 🇹🇷", MARVEL STUDIOS 4
 https://goldvod.org/tv/vavoo?id=918934667f675990a39a9
-#EXTINF:-1 tvg-id="None" tvg-name="MARVEL STUDIOS 5" tvg-logo="" group-title="TÜRKİYE 🇹🇷", MARVEL STUDIOS 5
-https://goldvod.org/tv/vavoo?id=195427643832e3b11029c
 #EXTINF:-1 tvg-id="None" tvg-name="MARVEL STUDIOS 7" tvg-logo="" group-title="TÜRKİYE 🇹🇷", MARVEL STUDIOS 7
 https://goldvod.org/tv/vavoo?id=190248917915fd69e16423
 #EXTINF:-1 tvg-id="None" tvg-name="MARVEL STUDIOS 8" tvg-logo="" group-title="TÜRKİYE 🇹🇷", MARVEL STUDIOS 8
@@ -1872,6 +1888,8 @@ https://goldvod.org/tv/vavoo?id=3548270931d42334c67c35
 https://goldvod.org/tv/vavoo?id=39827872808e4f8366f192
 #EXTINF:-1 tvg-id="None" tvg-name="NTV" tvg-logo="" group-title="TÜRKİYE 🇹🇷", NTV
 https://goldvod.org/tv/vavoo?id=31645146969d653b3c12ef
+#EXTINF:-1 tvg-id="None" tvg-name="NTV HABER" tvg-logo="" group-title="TÜRKİYE 🇹🇷", NTV HABER
+https://goldvod.org/tv/vavoo?id=123731096406a8cd66fdf9
 #EXTINF:-1 tvg-id="None" tvg-name="NTV HABER HD" tvg-logo="" group-title="TÜRKİYE 🇹🇷", NTV HABER HD
 https://goldvod.org/tv/vavoo?id=12204176595f082e0b0497
 #EXTINF:-1 tvg-id="None" tvg-name="NTV HABER HEVC" tvg-logo="" group-title="TÜRKİYE 🇹🇷", NTV HABER HEVC
@@ -1940,10 +1958,6 @@ https://goldvod.org/tv/vavoo?id=7315857755d4bda0ebfec
 https://goldvod.org/tv/vavoo?id=198132618c765e006ed00
 #EXTINF:-1 tvg-id="None" tvg-name="POWER DANCE" tvg-logo="" group-title="TÜRKİYE 🇹🇷", POWER DANCE
 https://goldvod.org/tv/vavoo?id=4234416466b6878ac343d7
-#EXTINF:-1 tvg-id="None" tvg-name="POWER DANCE" tvg-logo="" group-title="TÜRKİYE 🇹🇷", POWER DANCE
-https://goldvod.org/tv/vavoo?id=4234416466b6878ac343d7
-#EXTINF:-1 tvg-id="None" tvg-name="POWER FM YABANCI M ZIK" tvg-logo="" group-title="TÜRKİYE 🇹🇷", POWER FM YABANCI M ZIK
-https://goldvod.org/tv/vavoo?id=1299417291527618a1ccab
 #EXTINF:-1 tvg-id="None" tvg-name="POWER FM YABANCI M ZIK" tvg-logo="" group-title="TÜRKİYE 🇹🇷", POWER FM YABANCI M ZIK
 https://goldvod.org/tv/vavoo?id=1299417291527618a1ccab
 #EXTINF:-1 tvg-id="None" tvg-name="POWER HD" tvg-logo="" group-title="TÜRKİYE 🇹🇷", POWER HD
@@ -1974,6 +1988,8 @@ https://goldvod.org/tv/vavoo?id=536559220e5347db638cf
 https://goldvod.org/tv/vavoo?id=28347595794ed594f88740
 #EXTINF:-1 tvg-id="None" tvg-name="REDBOX ARABESK TV" tvg-logo="" group-title="TÜRKİYE 🇹🇷", REDBOX ARABESK TV
 https://goldvod.org/tv/vavoo?id=1149613711d37f7382b6da
+#EXTINF:-1 tvg-id="None" tvg-name="REDBOX KEMAL SUNAL" tvg-logo="" group-title="TÜRKİYE 🇹🇷", REDBOX KEMAL SUNAL
+https://goldvod.org/tv/vavoo?id=2795499512afb684c2bee3
 #EXTINF:-1 tvg-id="None" tvg-name="REDBOX TURKCE POP" tvg-logo="" group-title="TÜRKİYE 🇹🇷", REDBOX TURKCE POP
 https://goldvod.org/tv/vavoo?id=2387657693a0888f6e12b2
 #EXTINF:-1 tvg-id="None" tvg-name="REDBULL TV" tvg-logo="" group-title="TÜRKİYE 🇹🇷", REDBULL TV
@@ -2401,6 +2417,8 @@ https://goldvod.org/tv/vavoo?id=405074878169aaa15f6633
 #EXTINF:-1 tvg-id="None" tvg-name="TV 52 ORDU" tvg-logo="" group-title="TÜRKİYE 🇹🇷", TV 52 ORDU
 https://goldvod.org/tv/vavoo?id=2602281851ee63662b2b6f
 #EXTINF:-1 tvg-id="None" tvg-name="TV 8" tvg-logo="" group-title="TÜRKİYE 🇹🇷", TV 8
+https://goldvod.org/tv/vavoo?id=429230692196156e882cb4
+#EXTINF:-1 tvg-id="None" tvg-name="TV 8" tvg-logo="" group-title="TÜRKİYE 🇹🇷", TV 8
 https://goldvod.org/tv/vavoo?id=2196709234badbc159d5a2
 #EXTINF:-1 tvg-id="None" tvg-name="TV 8 HD" tvg-logo="" group-title="TÜRKİYE 🇹🇷", TV 8 HD
 https://goldvod.org/tv/vavoo?id=329802627004ee30bd6aa0
@@ -2614,8 +2632,6 @@ https://goldvod.org/tv/vavoo?id=24403473701d74df8c6728
 https://goldvod.org/tv/vavoo?id=2114435683697556ce3fd
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | ANIXE SERIES" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | ANIXE SERIES
 https://goldvod.org/tv/vavoo?id=273979084302e85df50dca
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | ANIXE+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | ANIXE+
-https://goldvod.org/tv/vavoo?id=2993796901272713a2a7af
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | ARD ALPHA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | ARD ALPHA
 https://goldvod.org/tv/vavoo?id=23303429766cb1c7046b8e
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | ARD ALPHA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | ARD ALPHA
@@ -2730,8 +2746,6 @@ https://goldvod.org/tv/vavoo?id=21518326221ebc0c1c1f9d
 https://goldvod.org/tv/vavoo?id=13571752139dbb0c175f51
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | BLUETV KOMODIE 1 ʜᴅ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | BLUETV KOMODIE 1 ʜᴅ
 https://goldvod.org/tv/vavoo?id=4253115827cdffd0ec9955
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | BLUETV KRIEGSFILM ʜᴅ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | BLUETV KRIEGSFILM ʜᴅ
-https://goldvod.org/tv/vavoo?id=116223296934241aaf11dc
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | BLUETV KRIMI 1 ʜᴅ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | BLUETV KRIMI 1 ʜᴅ
 https://goldvod.org/tv/vavoo?id=31228905127e916582e0e4
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | BLUETV LIEBESFILM 1 ʜᴅ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | BLUETV LIEBESFILM 1 ʜᴅ
@@ -2762,6 +2776,8 @@ https://goldvod.org/tv/vavoo?id=1249508039865a80ef54b2
 https://goldvod.org/tv/vavoo?id=188801008618b99ede59b7
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | BR TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | BR TV
 https://goldvod.org/tv/vavoo?id=260720713381d43d4af59c
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | CAMPUS TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | CAMPUS TV
+https://goldvod.org/tv/vavoo?id=12223962306391a7faa93d
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | CANAL 9 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | CANAL 9 HD
 https://goldvod.org/tv/vavoo?id=1385797497b0be2ccb373f
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | CARTOON NETWORK" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | CARTOON NETWORK
@@ -2880,6 +2896,8 @@ https://goldvod.org/tv/vavoo?id=67835616800d836abaaf3
 https://goldvod.org/tv/vavoo?id=2935466724408df5ac01fc
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DB LIGA 3 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DB LIGA 3 FHD
 https://goldvod.org/tv/vavoo?id=10584024430eedbfa6fd5c
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DB LIGA 3 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DB LIGA 3 HD
+https://goldvod.org/tv/vavoo?id=1650305658123c633c316c
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DB LIGA 4 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DB LIGA 4 FHD
 https://goldvod.org/tv/vavoo?id=153436909021764fe6f4ae
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DB LIGA 4 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DB LIGA 4 HD
@@ -2896,10 +2914,10 @@ https://goldvod.org/tv/vavoo?id=717071390cb6abf5e902b
 https://goldvod.org/tv/vavoo?id=16605269833f4928bfeca7
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DB LIGA 7 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DB LIGA 7 HD
 https://goldvod.org/tv/vavoo?id=38603091203c8aa5b2b224
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DB LIGA 8 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DB LIGA 8 FHD
-https://goldvod.org/tv/vavoo?id=31751163743408c7769fee
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DB LIGA 8 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DB LIGA 8 HD
 https://goldvod.org/tv/vavoo?id=106061572491a432b3d127
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DB LIGA 9 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DB LIGA 9 FHD
+https://goldvod.org/tv/vavoo?id=285602459736e9070db944
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DB LIGA 9 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DB LIGA 9 HD
 https://goldvod.org/tv/vavoo?id=4087199410160f197072a3
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DELUXE MUSIC" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DELUXE MUSIC
@@ -2908,6 +2926,10 @@ https://goldvod.org/tv/vavoo?id=218565287092f719df4d45
 https://goldvod.org/tv/vavoo?id=342910896629fc12b5b902
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DELUXE MUSIC" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DELUXE MUSIC
 https://goldvod.org/tv/vavoo?id=263471499993a94c3cfe8
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DER AKTION R TV HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DER AKTION R TV HD
+https://goldvod.org/tv/vavoo?id=33432523724976692e0c5e
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DER AKTION R TV HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DER AKTION R TV HD
+https://goldvod.org/tv/vavoo?id=15523057836d53a91dceeb
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DER AKTIONÄR TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DER AKTIONÄR TV
 https://goldvod.org/tv/vavoo?id=451068309931b929079e3
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DEUTSCHE SINEMA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DEUTSCHE SINEMA
@@ -2938,8 +2960,6 @@ https://goldvod.org/tv/vavoo?id=114000889839f3c378f3c5
 https://goldvod.org/tv/vavoo?id=23949399417cabf5e4a7f2
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DISNEY CINEMAGIC" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DISNEY CINEMAGIC
 https://goldvod.org/tv/vavoo?id=21170811702894c8613daf
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DISNEY CINEMAGIC" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DISNEY CINEMAGIC
-https://goldvod.org/tv/vavoo?id=2378322359ce6beb149e2d
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DISNEY JUNIOR" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DISNEY JUNIOR
 https://goldvod.org/tv/vavoo?id=14339680663b724fcafe95
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DISNEY JUNIOR" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DISNEY JUNIOR
@@ -2950,6 +2970,8 @@ https://goldvod.org/tv/vavoo?id=35285023817bfb6202b4d7
 https://goldvod.org/tv/vavoo?id=27493923745b76a03413d8
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DISNEY XD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DISNEY XD
 https://goldvod.org/tv/vavoo?id=27959125340f3d677ad175
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DISNEY+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DISNEY+
+https://goldvod.org/tv/vavoo?id=383959877793b0fa4d60aa
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DK4" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DK4
 https://goldvod.org/tv/vavoo?id=1419294625c9fd386fbfa1
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DMAX" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DMAX
@@ -2962,6 +2984,8 @@ https://goldvod.org/tv/vavoo?id=15201004986f5edd73b74d
 https://goldvod.org/tv/vavoo?id=79403627856f32c18a077
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DOKUMENTATION" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DOKUMENTATION
 https://goldvod.org/tv/vavoo?id=196474343111e0f530a0c6
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DR RAMASJANG" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DR RAMASJANG
+https://goldvod.org/tv/vavoo?id=1249122834b047faba16d7
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DR1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DR1
 https://goldvod.org/tv/vavoo?id=30975865623eaf69964b4a
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DR2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DR2
@@ -2978,16 +3002,20 @@ https://goldvod.org/tv/vavoo?id=1270998289568828c961a7
 https://goldvod.org/tv/vavoo?id=184526225925a39505f18c
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DW TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DW TV
 https://goldvod.org/tv/vavoo?id=1234064310ebb2dada9023
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DYN SPORT 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DYN SPORT 1
+https://goldvod.org/tv/vavoo?id=4939706396689225497ed
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DYN SPORT 10" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DYN SPORT 10
+https://goldvod.org/tv/vavoo?id=42463225237f7f47aea6f7
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DYN SPORT 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DYN SPORT 2
+https://goldvod.org/tv/vavoo?id=1523654175d237ed7b050e
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DYN SPORT 3" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DYN SPORT 3
 https://goldvod.org/tv/vavoo?id=1739667375b70564ce305e
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DYN SPORT 4" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DYN SPORT 4
-https://goldvod.org/tv/vavoo?id=35831100797b94777c5371
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DYN SPORT 6" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DYN SPORT 6
-https://goldvod.org/tv/vavoo?id=29413685430926e4f60080
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DYN SPORT 7" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DYN SPORT 7
-https://goldvod.org/tv/vavoo?id=24527220317420861d5507
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DYN SPORT 5" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DYN SPORT 5
+https://goldvod.org/tv/vavoo?id=39081579678c20f5025270
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DYN SPORT 8" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DYN SPORT 8
 https://goldvod.org/tv/vavoo?id=274794174aa92a1662e08
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | DYN SPORT 9" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | DYN SPORT 9
+https://goldvod.org/tv/vavoo?id=7550523023dc07e7b57da
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | E!" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | E!
 https://goldvod.org/tv/vavoo?id=2181381785257ed1b08e32
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | E! ENTERTAINMENT" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | E! ENTERTAINMENT
@@ -3046,6 +3074,8 @@ https://goldvod.org/tv/vavoo?id=1428325151c4a2bd098056
 https://goldvod.org/tv/vavoo?id=3178954282806508bb8e81
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | FC BAYERN HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | FC BAYERN HD
 https://goldvod.org/tv/vavoo?id=31629675780944e9fb9e6f
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | FC BAYERN TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | FC BAYERN TV
+https://goldvod.org/tv/vavoo?id=3534948376d3515fed6c87
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | FC BAYERN TV HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | FC BAYERN TV HD
 https://goldvod.org/tv/vavoo?id=217650915168b654708577
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | FEUERWEHRMANN SAM TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | FEUERWEHRMANN SAM TV
@@ -3078,6 +3108,20 @@ https://goldvod.org/tv/vavoo?id=2085313223c156da73c345
 https://goldvod.org/tv/vavoo?id=2916930910289202d17bb4
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | GEO TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | GEO TV
 https://goldvod.org/tv/vavoo?id=39779192841d002dd8631b
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | GERMANY BESONDERE 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | GERMANY BESONDERE 1
+https://goldvod.org/tv/vavoo?id=281511331327507555099b
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | GERMANY BESONDERE 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | GERMANY BESONDERE 2
+https://goldvod.org/tv/vavoo?id=3765125809b78f5a3d6d4b
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | GERMANY BESONDERE 3" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | GERMANY BESONDERE 3
+https://goldvod.org/tv/vavoo?id=370851302566c07af6a125
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | GERMANY KONIG FILME 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | GERMANY KONIG FILME 1
+https://goldvod.org/tv/vavoo?id=125822814bd98b1c911a9
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | GERMANY KONIG FILME 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | GERMANY KONIG FILME 2
+https://goldvod.org/tv/vavoo?id=1088396686514269a4325d
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | GERMANY KONIG FILME 3" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | GERMANY KONIG FILME 3
+https://goldvod.org/tv/vavoo?id=2109715518f0ac5ee5ace5
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | GERMANY KONIG FILME 6" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | GERMANY KONIG FILME 6
+https://goldvod.org/tv/vavoo?id=304291719849f7ffd5dabb
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | GO2 TRAVEL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | GO2 TRAVEL
 https://goldvod.org/tv/vavoo?id=382961786700f39d2d9590
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | GOLDSTAR" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | GOLDSTAR
@@ -3148,16 +3192,6 @@ https://goldvod.org/tv/vavoo?id=423558065a3358f3883a8
 https://goldvod.org/tv/vavoo?id=648723164316a8d26876f
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KABEL 1 DOKU" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KABEL 1 DOKU
 https://goldvod.org/tv/vavoo?id=2372195442a126e78e75a4
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KABEL 1 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KABEL 1 HD
-https://goldvod.org/tv/vavoo?id=1336066498f150c306001
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KABEL EINS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KABEL EINS
-https://goldvod.org/tv/vavoo?id=11763903621d4dd073b1e8
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KABEL EINS CLASSICS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KABEL EINS CLASSICS
-https://goldvod.org/tv/vavoo?id=155558211338b0c9cf0a97
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KABEL EINS DOKU" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KABEL EINS DOKU
-https://goldvod.org/tv/vavoo?id=77413792d189fe5618da
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KABEL EINS DOKU" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KABEL EINS DOKU
-https://goldvod.org/tv/vavoo?id=1475097052d156648d56d5
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KABEL EINS HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KABEL EINS HD
 https://goldvod.org/tv/vavoo?id=2200624412666baaff6b3b
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KANAL 4 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KANAL 4 HD
@@ -3180,12 +3214,12 @@ https://goldvod.org/tv/vavoo?id=3130154617a45e4a374b4f
 https://goldvod.org/tv/vavoo?id=42479218332575fb78ed38
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KINOPORTAL 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KINOPORTAL 1
 https://goldvod.org/tv/vavoo?id=314988731969548acbb955
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KINOPORTAL 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KINOPORTAL 2
-https://goldvod.org/tv/vavoo?id=4229893511f54fcdd55e8d
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KINOPORTAL 3" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KINOPORTAL 3
 https://goldvod.org/tv/vavoo?id=32463350314b2b8473ade8
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KINOPORTAL 4" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KINOPORTAL 4
 https://goldvod.org/tv/vavoo?id=1935669287a6cf54a9db74
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KINOPORTAL 5" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KINOPORTAL 5
+https://goldvod.org/tv/vavoo?id=13128052718f1b837846ae
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KINOPORTAL 6" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KINOPORTAL 6
 https://goldvod.org/tv/vavoo?id=1614590150de36e2f952f
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | KINOWELT TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | KINOWELT TV
@@ -3568,16 +3602,16 @@ https://goldvod.org/tv/vavoo?id=1663642536c634e4c5b223
 https://goldvod.org/tv/vavoo?id=23292927777f160288b5a2
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | QVC ZWEI" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | QVC ZWEI
 https://goldvod.org/tv/vavoo?id=192343514111ad3d59f586
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RAKUTEN ACTION MOVIES" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RAKUTEN ACTION MOVIES
+https://goldvod.org/tv/vavoo?id=12875177589ce7d61e7aa6
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RAKUTEN COMEDY MOVIES" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RAKUTEN COMEDY MOVIES
 https://goldvod.org/tv/vavoo?id=1133586429804a9733ad62
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RAKUTEN COMEDY MOVIES" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RAKUTEN COMEDY MOVIES
+https://goldvod.org/tv/vavoo?id=30879969086694f4aa311a
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RAKUTEN COMEDY MOVIES 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RAKUTEN COMEDY MOVIES 2
 https://goldvod.org/tv/vavoo?id=3499073467ddd56c695b90
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RAKUTEN SPOTLIGHT" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RAKUTEN SPOTLIGHT
 https://goldvod.org/tv/vavoo?id=60685229118e664291ddf
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RAKUTEN TOP FREE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RAKUTEN TOP FREE
-https://goldvod.org/tv/vavoo?id=10440786029820d012ab4c
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RAKUTEN TV SHOWS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RAKUTEN TV SHOWS
-https://goldvod.org/tv/vavoo?id=1725615682cb295bc6f152
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RAKUTEN TV SHOWS 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RAKUTEN TV SHOWS 2
 https://goldvod.org/tv/vavoo?id=3416458367f72f505ffd2f
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RAN 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RAN 1
@@ -3635,9 +3669,13 @@ https://goldvod.org/tv/vavoo?id=3755683281b1e5fd9dbe20
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL 2 HD+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL 2 HD+
 https://goldvod.org/tv/vavoo?id=17583675311eae047c89de
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL CRIME" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL CRIME
+https://goldvod.org/tv/vavoo?id=332355097640c831fcf779
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL CRIME" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL CRIME
 https://goldvod.org/tv/vavoo?id=23982361313d4222352c24
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL CRIME" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL CRIME
 https://goldvod.org/tv/vavoo?id=23649635838115908ea77f
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL CRIME HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL CRIME HD
+https://goldvod.org/tv/vavoo?id=1648424420b600137c4154
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL CRIME HD+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL CRIME HD+
 https://goldvod.org/tv/vavoo?id=339544109e7291a93ae41
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL HD
@@ -3690,6 +3728,8 @@ https://goldvod.org/tv/vavoo?id=1853551406e4d58cd366f9
 https://goldvod.org/tv/vavoo?id=1162290744806086b642e4
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL+ SPORT EVENT 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL+ SPORT EVENT 2
 https://goldvod.org/tv/vavoo?id=702188030d3d5a2294bd5
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL+ SPORT EVENT 3" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL+ SPORT EVENT 3
+https://goldvod.org/tv/vavoo?id=34777505440157928131d
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL+ SPORT EVENT 4" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL+ SPORT EVENT 4
 https://goldvod.org/tv/vavoo?id=2795142238f9a0bd5eda07
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | RTL+ SPORT EVENT 4" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | RTL+ SPORT EVENT 4
@@ -3720,6 +3760,8 @@ https://goldvod.org/tv/vavoo?id=25250796346ef8022526f6
 https://goldvod.org/tv/vavoo?id=4242909772b8374c84bf5a
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 10 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 10 HD
 https://goldvod.org/tv/vavoo?id=265983091989ca76c7602c
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 11 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 11 FHD
+https://goldvod.org/tv/vavoo?id=3953049103f74277c6ee88
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 11 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 11 HD
 https://goldvod.org/tv/vavoo?id=1378077721a926ab11da69
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 2 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 2 FHD
@@ -3746,8 +3788,14 @@ https://goldvod.org/tv/vavoo?id=262174343528d7003d495b
 https://goldvod.org/tv/vavoo?id=13578162773c22055ea601
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 8 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 8 FHD
 https://goldvod.org/tv/vavoo?id=28012180882cbfb016a66f
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 8 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 8 FHD
+https://goldvod.org/tv/vavoo?id=28012180882cbfb016a66f
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 8 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 8 HD
 https://goldvod.org/tv/vavoo?id=2312024953de44a563c1a4
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 8 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 8 HD
+https://goldvod.org/tv/vavoo?id=2312024953de44a563c1a4
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 9 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 9 FHD
+https://goldvod.org/tv/vavoo?id=2978752107fef207a14853
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 9 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 9 FHD
 https://goldvod.org/tv/vavoo?id=2978752107fef207a14853
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | S. SPORT 9 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | S. SPORT 9 HD
@@ -3872,8 +3920,8 @@ https://goldvod.org/tv/vavoo?id=1376270745b0627d14387d
 https://goldvod.org/tv/vavoo?id=350456154001728f296c1e
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY ATLANTIC HD+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY ATLANTIC HD+
 https://goldvod.org/tv/vavoo?id=2798401146ec7e7d28c11f
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY BEST OF HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY BEST OF HD
-https://goldvod.org/tv/vavoo?id=2022058191705953efe5bd
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY BEST OF" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY BEST OF
+https://goldvod.org/tv/vavoo?id=1102498392168d5b317769
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY BEST OF HD+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY BEST OF HD+
 https://goldvod.org/tv/vavoo?id=3097180080328964f2e0fb
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY BOX ABENTEUER HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY BOX ABENTEUER HD
@@ -4026,10 +4074,14 @@ https://goldvod.org/tv/vavoo?id=3129337035089b5b0d918c
 https://goldvod.org/tv/vavoo?id=41403985348c9b135459db
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA ACTION HD+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA ACTION HD+
 https://goldvod.org/tv/vavoo?id=3251224651e0552e67f539
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA BEST" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA BEST
+https://goldvod.org/tv/vavoo?id=227712345007279b49b40c
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA BEST OF" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA BEST OF
 https://goldvod.org/tv/vavoo?id=1506084946f625257b4975
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA BEST OF" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA BEST OF
 https://goldvod.org/tv/vavoo?id=7675679855208c3fbe478
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA BEST OF HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA BEST OF HD
+https://goldvod.org/tv/vavoo?id=4183661289bea5151c6e22
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA BEST OF HD+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA BEST OF HD+
 https://goldvod.org/tv/vavoo?id=1779919359802f2c8cd069
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA CLASSICS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA CLASSICS
@@ -4046,6 +4098,10 @@ https://goldvod.org/tv/vavoo?id=26671525315195c5a5dd65
 https://goldvod.org/tv/vavoo?id=40564741164a7036747d07
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA DOCUMENTARIES" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA DOCUMENTARIES
 https://goldvod.org/tv/vavoo?id=7584313479fe18bee2495
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA EMOTION" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA EMOTION
+https://goldvod.org/tv/vavoo?id=75068099388ef97789690
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA EMOTION" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA EMOTION
+https://goldvod.org/tv/vavoo?id=1260704553a0fd2c0d406
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA EMOTION" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA EMOTION
 https://goldvod.org/tv/vavoo?id=1938198164e418a3832636
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY CINEMA FAMILY" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY CINEMA FAMILY
@@ -4122,6 +4178,8 @@ https://goldvod.org/tv/vavoo?id=2557344364495caaf50be8
 https://goldvod.org/tv/vavoo?id=4154732080b5bdb8a206f8
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY FUN" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY FUN
 https://goldvod.org/tv/vavoo?id=25921202527f426e83343f
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY JUNIOR" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY JUNIOR
+https://goldvod.org/tv/vavoo?id=4463465606b88f8281cb2
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY KRIMI" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY KRIMI
 https://goldvod.org/tv/vavoo?id=2355208571f5965789513b
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY KRIMI" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY KRIMI
@@ -4134,6 +4192,8 @@ https://goldvod.org/tv/vavoo?id=2969860284a7881a1c80b4
 https://goldvod.org/tv/vavoo?id=813996919a3cda6b604aa
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY KRIMI HD+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY KRIMI HD+
 https://goldvod.org/tv/vavoo?id=397907929282090e329b23
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY MOVIES SELECT 6" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY MOVIES SELECT 6
+https://goldvod.org/tv/vavoo?id=21473847139eaa28a8e573
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY NATURE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY NATURE
 https://goldvod.org/tv/vavoo?id=2979356473ea0aadb2ef4f
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY NATURE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY NATURE
@@ -4286,6 +4346,8 @@ https://goldvod.org/tv/vavoo?id=2382166683aa3a6ebf18c6
 https://goldvod.org/tv/vavoo?id=2777266633d00f3be1b209
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY SERIEN & SHOWS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY SERIEN & SHOWS
 https://goldvod.org/tv/vavoo?id=87314260030d570309897
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY SERIEN & SHOWS FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY SERIEN & SHOWS FHD
+https://goldvod.org/tv/vavoo?id=3136992921d55ebb99706
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY SERIEN & SHOWS HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY SERIEN & SHOWS HD
 https://goldvod.org/tv/vavoo?id=3353964677b3a30e6544a3
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY SERIEN&SHOWS HD+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY SERIEN&SHOWS HD+
@@ -4330,8 +4392,6 @@ https://goldvod.org/tv/vavoo?id=23935553783dd55ce2c3ee
 https://goldvod.org/tv/vavoo?id=2353380835657a79821d9a
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY SPORT 6" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY SPORT 6
 https://goldvod.org/tv/vavoo?id=1680612560cb9822726c44
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY SPORT 6 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY SPORT 6 HD
-https://goldvod.org/tv/vavoo?id=463237157314e6d840607
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY SPORT 7" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY SPORT 7
 https://goldvod.org/tv/vavoo?id=2972030035baf7f7dca0a2
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SKY SPORT 7" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SKY SPORT 7
@@ -4404,6 +4464,8 @@ https://goldvod.org/tv/vavoo?id=3819519883596e4d032ca5
 https://goldvod.org/tv/vavoo?id=3495440592709bab73596d
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SONNENKLAR TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SONNENKLAR TV
 https://goldvod.org/tv/vavoo?id=4215383566b7fe92900456
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SONUS FM ALEMANIA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SONUS FM ALEMANIA
+https://goldvod.org/tv/vavoo?id=572426887e6c39ceb0528
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SONY ANIXE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SONY ANIXE
 https://goldvod.org/tv/vavoo?id=3694545318fbb10d41b721
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SONY ANIXE HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SONY ANIXE HD
@@ -4428,10 +4490,10 @@ https://goldvod.org/tv/vavoo?id=103956517836f88a504fdb
 https://goldvod.org/tv/vavoo?id=124070332167e0de43e602
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPIEGEL TV WISSEN" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPIEGEL TV WISSEN
 https://goldvod.org/tv/vavoo?id=3130593243618d9bc8c37
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPIEGEL TV WISSEN" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPIEGEL TV WISSEN
+https://goldvod.org/tv/vavoo?id=124166966600b8cdf1a255
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPIEGEL WISSEN" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPIEGEL WISSEN
 https://goldvod.org/tv/vavoo?id=3947804295e226cf27afee
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPONGEBOB HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPONGEBOB HD
-https://goldvod.org/tv/vavoo?id=2520302204f235e56dd105
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPORT 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPORT 1
 https://goldvod.org/tv/vavoo?id=51334617841ebc9d3984d
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPORT 1+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPORT 1+
@@ -4444,16 +4506,12 @@ https://goldvod.org/tv/vavoo?id=312645496b88d4bff5366
 https://goldvod.org/tv/vavoo?id=362111501321dab5bfdb57
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPORT DIGITAL HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPORT DIGITAL HD
 https://goldvod.org/tv/vavoo?id=7290951920e7113a53999
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPORT1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPORT1
-https://goldvod.org/tv/vavoo?id=186570834657c061211058
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPORT1 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPORT1 FHD
 https://goldvod.org/tv/vavoo?id=4116446750bfa9903528f9
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPORT1 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPORT1 HD
 https://goldvod.org/tv/vavoo?id=252613159528b462362d33
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPORT1+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPORT1+
 https://goldvod.org/tv/vavoo?id=6635090684eca4561a362
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPORT1+ FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPORT1+ FHD
-https://goldvod.org/tv/vavoo?id=37840743674da4fdf90e14
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPORT1+ HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPORT1+ HD
 https://goldvod.org/tv/vavoo?id=1079483287c439c0c0a982
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | SPORTDIGITAL FUSSBALL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | SPORTDIGITAL FUSSBALL
@@ -4478,8 +4536,10 @@ https://goldvod.org/tv/vavoo?id=3107698882a13cc55c0d9b
 https://goldvod.org/tv/vavoo?id=1863446587475cd73595e
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | STERN FILME 5" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | STERN FILME 5
 https://goldvod.org/tv/vavoo?id=9140504025fb41381d136
-#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | STERN FILME 7" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | STERN FILME 7
-https://goldvod.org/tv/vavoo?id=1287331330d5e2b15f5157
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | STERN FILME 8" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | STERN FILME 8
+https://goldvod.org/tv/vavoo?id=34715427397436fd5f172b
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | STERN FILME 9" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | STERN FILME 9
+https://goldvod.org/tv/vavoo?id=40860140518438639bc6cf
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | STINGRAY CLASSICA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | STINGRAY CLASSICA
 https://goldvod.org/tv/vavoo?id=1779435258c4cdddefdd70
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | STINGRAY CLASSICA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | STINGRAY CLASSICA
@@ -4632,6 +4692,8 @@ https://goldvod.org/tv/vavoo?id=2566182864ea369e25615c
 https://goldvod.org/tv/vavoo?id=3307783229b070addd157d
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | TV3+ HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | TV3+ HD
 https://goldvod.org/tv/vavoo?id=389774673655d47b50b7c7
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | TVA OSTBAYERN" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | TVA OSTBAYERN
+https://goldvod.org/tv/vavoo?id=1364897583a36dd6013875
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | UNIVERSAL TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | UNIVERSAL TV
 https://goldvod.org/tv/vavoo?id=6161772480582fdab00eb
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | UNIVERSAL TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | UNIVERSAL TV
@@ -4646,6 +4708,8 @@ https://goldvod.org/tv/vavoo?id=2279462690ef746e396a2f
 https://goldvod.org/tv/vavoo?id=2086139873e54578e3bcc9
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | V FILM HITS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | V FILM HITS
 https://goldvod.org/tv/vavoo?id=39592075475dad9fb46d17
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | V FILM PREMIERE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | V FILM PREMIERE
+https://goldvod.org/tv/vavoo?id=489755247705cd637708e
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | V SERIES" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | V SERIES
 https://goldvod.org/tv/vavoo?id=16126897713cec8d43189c
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | V SPORT GOLF" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | V SPORT GOLF
@@ -4732,6 +4796,8 @@ https://goldvod.org/tv/vavoo?id=2954521895a6c81cc89316
 https://goldvod.org/tv/vavoo?id=164858686582d4dd686caf
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | XITE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | XITE
 https://goldvod.org/tv/vavoo?id=835915068bff379202095
+#EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | XITE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | XITE
+https://goldvod.org/tv/vavoo?id=131977343899ed6b3a08c0
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | XITE HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | XITE HD
 https://goldvod.org/tv/vavoo?id=33815888547fbf2449ad20
 #EXTINF:-1 tvg-id="None" tvg-name="ALMANYA | YAKARI TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ALMANYA | YAKARI TV
@@ -4918,6 +4984,8 @@ https://goldvod.org/tv/vavoo?id=100925977545d13572da49
 https://goldvod.org/tv/vavoo?id=215397189890b9b28219ce
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | AL KASS SPORTS 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | AL KASS SPORTS 2
 https://goldvod.org/tv/vavoo?id=3351476842c47b6fe6b2b7
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | AL KAWTHAR.PALESTINE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | AL KAWTHAR.PALESTINE
+https://goldvod.org/tv/vavoo?id=2296361700c65cbbc762e9
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | AL KHALIJ TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | AL KHALIJ TV
 https://goldvod.org/tv/vavoo?id=2525365753a982ea87d1c8
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | AL MAGHARIBIA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | AL MAGHARIBIA
@@ -5312,8 +5380,16 @@ https://goldvod.org/tv/vavoo?id=27135821059e763061f19e
 https://goldvod.org/tv/vavoo?id=2118509788c0475ccbcd63
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BBC NEWS ARABIC" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BBC NEWS ARABIC
 https://goldvod.org/tv/vavoo?id=320616308584dee46c1970
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BE SPORTS 1 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BE SPORTS 1 HD
+https://goldvod.org/tv/vavoo?id=39963218323a9e9285206
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BE SPORTS 2 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BE SPORTS 2 HD
 https://goldvod.org/tv/vavoo?id=257313198838733e097fc9
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BE SPORTS 3 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BE SPORTS 3 HD
+https://goldvod.org/tv/vavoo?id=1442111562afcd2f1e1488
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BE SPORTS 4 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BE SPORTS 4 HD
+https://goldvod.org/tv/vavoo?id=15971065154aab9a3b06d8
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BE SPORTS 5 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BE SPORTS 5 HD
+https://goldvod.org/tv/vavoo?id=2476468685d8ade2da59dd
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BE SPORTS 6 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BE SPORTS 6 HD
 https://goldvod.org/tv/vavoo?id=48791095804ae81e5dfe9
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BE SPORTS 7 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BE SPORTS 7 HD
@@ -5456,8 +5532,6 @@ https://goldvod.org/tv/vavoo?id=13503191367afd5c3725c4
 https://goldvod.org/tv/vavoo?id=391401178348a7559b8232
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BEIN SPORTS 1 PREMIUM" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BEIN SPORTS 1 PREMIUM
 https://goldvod.org/tv/vavoo?id=83187634a6eb2ae478cc
-#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BEIN SPORTS 1 PREMIUM 1080 LOCAL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BEIN SPORTS 1 PREMIUM 1080 LOCAL
-https://goldvod.org/tv/vavoo?id=348765617908a2a75872e0
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BEIN SPORTS 1 PREMIUM 1MB" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BEIN SPORTS 1 PREMIUM 1MB
 https://goldvod.org/tv/vavoo?id=90816476357bc66fcc366
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BEIN SPORTS 1 PREMIUM 4K H265" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BEIN SPORTS 1 PREMIUM 4K H265
@@ -5552,8 +5626,6 @@ https://goldvod.org/tv/vavoo?id=38342783625ae9a291d41
 https://goldvod.org/tv/vavoo?id=3793612380ff0b60bb41f5
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BEIN SPORTS 3 PREMIUM 4K H265" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BEIN SPORTS 3 PREMIUM 4K H265
 https://goldvod.org/tv/vavoo?id=3596688846ec2362c39ac3
-#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BEIN SPORTS 3 PREMIUM HEVC" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BEIN SPORTS 3 PREMIUM HEVC
-https://goldvod.org/tv/vavoo?id=162652731776d40d5cc21c
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BEIN SPORTS 3 PREMIUM LOW" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BEIN SPORTS 3 PREMIUM LOW
 https://goldvod.org/tv/vavoo?id=23222615827b8d22dab7ae
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | BEIN SPORTS 3 PREMIUM SD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | BEIN SPORTS 3 PREMIUM SD
@@ -5986,6 +6058,8 @@ https://goldvod.org/tv/vavoo?id=18278147593544b4bde7e1
 https://goldvod.org/tv/vavoo?id=3267577956b7833307d9fd
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | CARTHAGE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | CARTHAGE
 https://goldvod.org/tv/vavoo?id=2964642030537273464e97
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | CARTOON NETWORK" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | CARTOON NETWORK
+https://goldvod.org/tv/vavoo?id=38989743139e48e0d08fd1
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | CARTOON NETWORK ARABIC" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | CARTOON NETWORK ARABIC
 https://goldvod.org/tv/vavoo?id=615230777fba9e0d97cbd
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | CATAMARCA ARG: V" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | CATAMARCA ARG: V
@@ -6092,6 +6166,12 @@ https://goldvod.org/tv/vavoo?id=2485676282cfb9dade2b31
 https://goldvod.org/tv/vavoo?id=17415087153bf2e4dec7fc
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | DISCOVERY FAMILY" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | DISCOVERY FAMILY
 https://goldvod.org/tv/vavoo?id=1599231011e38dc8ae657b
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | DISCOVERY HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | DISCOVERY HD
+https://goldvod.org/tv/vavoo?id=1497426810df237e3c83c5
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | DISCOVERY ID HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | DISCOVERY ID HD
+https://goldvod.org/tv/vavoo?id=2356538576422af025282c
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | DISCOVERY SC HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | DISCOVERY SC HD
+https://goldvod.org/tv/vavoo?id=3210620198700066426d14
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | DISCOVERY THEATER" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | DISCOVERY THEATER
 https://goldvod.org/tv/vavoo?id=398220909527d473779368
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | DISNEY" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | DISNEY
@@ -6154,6 +6234,8 @@ https://goldvod.org/tv/vavoo?id=3374333899310e78634398
 https://goldvod.org/tv/vavoo?id=14860846946a576e8ce67c
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | DUBAI TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | DUBAI TV
 https://goldvod.org/tv/vavoo?id=368061809681808b88888e
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | DUBAI ZAMAN" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | DUBAI ZAMAN
+https://goldvod.org/tv/vavoo?id=1253852198d95689685ec7
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | DUBAI ZAMAN  [NOT 24/7]" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | DUBAI ZAMAN  [NOT 24/7]
 https://goldvod.org/tv/vavoo?id=2710915569d88a5805b866
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | DW" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | DW
@@ -6394,6 +6476,8 @@ https://goldvod.org/tv/vavoo?id=20176387910fe3b76b512a
 https://goldvod.org/tv/vavoo?id=1987596823b706a638ed9a
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | KIDS CO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | KIDS CO
 https://goldvod.org/tv/vavoo?id=2373065273dde03b322b9a
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | KIDS HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | KIDS HD
+https://goldvod.org/tv/vavoo?id=116289573931da3ece0188
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | KIDS NILS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | KIDS NILS
 https://goldvod.org/tv/vavoo?id=797404682e6d6caf69dc
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | KIDS ZONE HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | KIDS ZONE HD
@@ -6436,8 +6520,6 @@ https://goldvod.org/tv/vavoo?id=2074933839d0956cb29ac1
 https://goldvod.org/tv/vavoo?id=1280534220c0532caa5652
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | KSA|IEN DOROS 02" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | KSA|IEN DOROS 02
 https://goldvod.org/tv/vavoo?id=200481820cb861e4ed517
-#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | KSA|IEN DOROS 03" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | KSA|IEN DOROS 03
-https://goldvod.org/tv/vavoo?id=915617196e0a075f77626
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | KSA|IEN DOROS 04" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | KSA|IEN DOROS 04
 https://goldvod.org/tv/vavoo?id=22263832928a8709991099
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | KSA|IEN DOROS 05" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | KSA|IEN DOROS 05
@@ -6640,8 +6722,6 @@ https://goldvod.org/tv/vavoo?id=2184784415245c8436a251
 https://goldvod.org/tv/vavoo?id=416375452bbdacaa5f60a
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | MBC MASR 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | MBC MASR 2
 https://goldvod.org/tv/vavoo?id=1564640134f8422a9f1a22
-#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | MBC MASR 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | MBC MASR 2
-https://goldvod.org/tv/vavoo?id=467356702c7601e14bdd0
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | MBC MAX" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | MBC MAX
 https://goldvod.org/tv/vavoo?id=20765524753704e83438c2
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | MBC PLUS DRAMA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | MBC PLUS DRAMA
@@ -7060,6 +7140,8 @@ https://goldvod.org/tv/vavoo?id=2887920787832141b1dfeb
 https://goldvod.org/tv/vavoo?id=39291298599e716fd32902
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | RTN NEUQUEN" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | RTN NEUQUEN
 https://goldvod.org/tv/vavoo?id=2574523251e7f9c2a5778f
+#EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | SADA EL BALAD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | SADA EL BALAD
+https://goldvod.org/tv/vavoo?id=7998612518f9aa549d142
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | SADA EL BALAD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | SADA EL BALAD
 https://goldvod.org/tv/vavoo?id=7998612518f9aa549d142
 #EXTINF:-1 tvg-id="None" tvg-name="ARABİSTAN | SADA ELBALAD DRAMA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARABİSTAN | SADA ELBALAD DRAMA
@@ -7762,6 +7844,8 @@ https://goldvod.org/tv/vavoo?id=27579974836394c581d22d
 https://goldvod.org/tv/vavoo?id=2163930146501f299993ea
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | BIG BROTHER 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | BIG BROTHER 2
 https://goldvod.org/tv/vavoo?id=38212591318bb321dacb56
+#EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | BIG BROTHER 2 KS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | BIG BROTHER 2 KS
+https://goldvod.org/tv/vavoo?id=2426111371326ccf4766a
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | BLUE SKY TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | BLUE SKY TV
 https://goldvod.org/tv/vavoo?id=722381466d78e8d327df8
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | BOOMERANG" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | BOOMERANG
@@ -7866,16 +7950,12 @@ https://goldvod.org/tv/vavoo?id=32408214928c1b936c8462
 https://goldvod.org/tv/vavoo?id=25754022821d1d65537a2c
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | DISCOVERY CHANNEL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | DISCOVERY CHANNEL
 https://goldvod.org/tv/vavoo?id=1131363710368e49393848
-#EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | DISNEY JR" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | DISNEY JR
-https://goldvod.org/tv/vavoo?id=306517164632e755964f0a
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | DIVA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | DIVA
 https://goldvod.org/tv/vavoo?id=18085129317f04d4403e75
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | DIZI CHANNEL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | DIZI CHANNEL
 https://goldvod.org/tv/vavoo?id=3216602537308bbaeeb72c
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | DOCUBOX" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | DOCUBOX
 https://goldvod.org/tv/vavoo?id=322776250089aafd547212
-#EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | DRITA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | DRITA
-https://goldvod.org/tv/vavoo?id=265956197491fa2f0d64a2
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | DRITA TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | DRITA TV
 https://goldvod.org/tv/vavoo?id=1754126945238920d156a2
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | DUCK TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | DUCK TV
@@ -7960,8 +8040,6 @@ https://goldvod.org/tv/vavoo?id=22394351120a3bb29b8428
 https://goldvod.org/tv/vavoo?id=933551170622372a2193d
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | FILM AKSION HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | FILM AKSION HD
 https://goldvod.org/tv/vavoo?id=892299779fe5979d9f5b3
-#EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | FILM AUTOR" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | FILM AUTOR
-https://goldvod.org/tv/vavoo?id=202528438203e306654d6
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | FILM AUTOR" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | FILM AUTOR
 https://goldvod.org/tv/vavoo?id=21364444861d3c9bc5dcdc
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | FILM AUTOR" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | FILM AUTOR
@@ -8210,6 +8288,8 @@ https://goldvod.org/tv/vavoo?id=60085566210e7e9863ffb
 https://goldvod.org/tv/vavoo?id=381209689155997b009f7b
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | KOMEDI" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | KOMEDI
 https://goldvod.org/tv/vavoo?id=4025988512bfb7302450f7
+#EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | KS ACTION" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | KS ACTION
+https://goldvod.org/tv/vavoo?id=3771639848fea4a354193b
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | KS CIFTELIA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | KS CIFTELIA
 https://goldvod.org/tv/vavoo?id=3058788491298518c47655
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | KS COMEDY" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | KS COMEDY
@@ -8268,6 +8348,8 @@ https://goldvod.org/tv/vavoo?id=44068915006c7ddd336ff
 https://goldvod.org/tv/vavoo?id=21472040427c9724e7d024
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | KUJTESA SPORT 3 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | KUJTESA SPORT 3 [LIVE DURING EVENTS ONLY]
 https://goldvod.org/tv/vavoo?id=34626180753ab5edf33e2
+#EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | KUJTESA SPORT 4" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | KUJTESA SPORT 4
+https://goldvod.org/tv/vavoo?id=3453708250b97fcfe1ed4e
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | KUJTESA SPORT 4 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | KUJTESA SPORT 4 [LIVE DURING EVENTS ONLY]
 https://goldvod.org/tv/vavoo?id=1007948568f280970bcbcf
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | LIRIA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | LIRIA
@@ -8772,8 +8854,6 @@ https://goldvod.org/tv/vavoo?id=230750535661de8f7216f9
 https://goldvod.org/tv/vavoo?id=3451071129b2685715c7f5
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | TEVE AKSION" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | TEVE AKSION
 https://goldvod.org/tv/vavoo?id=340984437723908697b46d
-#EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | TEVE DAKU 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | TEVE DAKU 2
-https://goldvod.org/tv/vavoo?id=1922643238a78d1dfbd1bf
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | TEVE SHQIP" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | TEVE SHQIP
 https://goldvod.org/tv/vavoo?id=2784295539f3e22b7cb863
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | TIP TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | TIP TV
@@ -8972,14 +9052,8 @@ https://goldvod.org/tv/vavoo?id=419177049750cc13ee1d18
 https://goldvod.org/tv/vavoo?id=28040937966fb9a8b6be5d
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | X DARK HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | X DARK HD
 https://goldvod.org/tv/vavoo?id=11667335637a67baf156c0
-#EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | X DRAMA HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | X DRAMA HD
-https://goldvod.org/tv/vavoo?id=3644697654d83585180baa
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | X FAMILY HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | X FAMILY HD
 https://goldvod.org/tv/vavoo?id=4074320383ea2204eaea83
-#EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | X FILMA 24" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | X FILMA 24
-https://goldvod.org/tv/vavoo?id=1641803616e24d2391cba9
-#EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | X KIDS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | X KIDS
-https://goldvod.org/tv/vavoo?id=2448566547b0d4a52acb67
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | X PREMIUM 1 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | X PREMIUM 1 HD
 https://goldvod.org/tv/vavoo?id=672540565bfa64aac2082
 #EXTINF:-1 tvg-id="None" tvg-name="ARNAVUTLUK | X PREMIUM 2 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ARNAVUTLUK | X PREMIUM 2 HD
@@ -9206,6 +9280,10 @@ https://goldvod.org/tv/vavoo?id=39880846725dd6b2347295
 https://goldvod.org/tv/vavoo?id=388934004777dbb0a6177a
 #EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | DISCOVERY ID" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | DISCOVERY ID
 https://goldvod.org/tv/vavoo?id=8584771412d4a94e2cfc6
+#EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | DISCOVERY SCIENCE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | DISCOVERY SCIENCE
+https://goldvod.org/tv/vavoo?id=155549274625ae18b03ac5
+#EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | DISCOVERY SCIENCE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | DISCOVERY SCIENCE
+https://goldvod.org/tv/vavoo?id=2253936606186d75d416e0
 #EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | DISCOVERY WORLD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | DISCOVERY WORLD
 https://goldvod.org/tv/vavoo?id=3759973215412c6e3979d8
 #EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | DISNEY CHANEL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | DISNEY CHANEL
@@ -9282,6 +9360,8 @@ https://goldvod.org/tv/vavoo?id=21741243995f01ef8cb948
 https://goldvod.org/tv/vavoo?id=343666623953daf1d99b82
 #EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | FOOD NETWORK" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | FOOD NETWORK
 https://goldvod.org/tv/vavoo?id=429517847e6a0defe7254
+#EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | FOX" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | FOX
+https://goldvod.org/tv/vavoo?id=445499990d3e8daeb0a73
 #EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | FOX" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | FOX
 https://goldvod.org/tv/vavoo?id=3554318857049c03f49cef
 #EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | FOX" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | FOX
@@ -9596,8 +9676,6 @@ https://goldvod.org/tv/vavoo?id=34341117849ce85e326dd4
 https://goldvod.org/tv/vavoo?id=2309986692debd20f5ec74
 #EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | PINK MUSIC 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | PINK MUSIC 1
 https://goldvod.org/tv/vavoo?id=9466611761d0cbd8402c0
-#EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | PINK MUSIC 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | PINK MUSIC 2
-https://goldvod.org/tv/vavoo?id=2144116200fe7a46e16969
 #EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | PINK N ROLL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | PINK N ROLL
 https://goldvod.org/tv/vavoo?id=3278309033f77dbf4d17aa
 #EXTINF:-1 tvg-id="None" tvg-name="BALKANLAR | PINK PEDIA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", BALKANLAR | PINK PEDIA
@@ -10352,6 +10430,8 @@ https://goldvod.org/tv/vavoo?id=2841232336f8ad397754f5
 https://goldvod.org/tv/vavoo?id=3279565173fcafc23af7af
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | A+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | A+
 https://goldvod.org/tv/vavoo?id=17658736402a7360a48901
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | A12 TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | A12 TV
+https://goldvod.org/tv/vavoo?id=2701753448d4e4f9826315
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | AB 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | AB 1
 https://goldvod.org/tv/vavoo?id=2557284405a39af6ab957b
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | AB 1 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | AB 1 HD
@@ -10376,6 +10456,8 @@ https://goldvod.org/tv/vavoo?id=1316428074762ad2aa63dd
 https://goldvod.org/tv/vavoo?id=3638789513f8ccd703cc28
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | AFRICA 24" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | AFRICA 24
 https://goldvod.org/tv/vavoo?id=2290952272f961b542eda7
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | ALTICE STUDIO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | ALTICE STUDIO
+https://goldvod.org/tv/vavoo?id=5234125702f1ab7e4d96f
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | ALTICE STUDIO HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | ALTICE STUDIO HD
 https://goldvod.org/tv/vavoo?id=81737034162dae716442d
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | AMAZON PRIME 1 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | AMAZON PRIME 1 HD
@@ -10402,6 +10484,8 @@ https://goldvod.org/tv/vavoo?id=39695145985d944aa264ce
 https://goldvod.org/tv/vavoo?id=258695433034433ac372ee
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | AMAZON PRIME 4 HD+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | AMAZON PRIME 4 HD+
 https://goldvod.org/tv/vavoo?id=941418393ee4558cb9e4a
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | AMAZON PRIME 4 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | AMAZON PRIME 4 [LIVE DURING EVENTS ONLY]
+https://goldvod.org/tv/vavoo?id=205171795996e163c44a77
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | AMAZON PRIME 5 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | AMAZON PRIME 5 HD
 https://goldvod.org/tv/vavoo?id=145305056422c10c6fde04
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | AMAZON PRIME 5 HD+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | AMAZON PRIME 5 HD+
@@ -10608,6 +10692,8 @@ https://goldvod.org/tv/vavoo?id=1945266328e8e437e6162d
 https://goldvod.org/tv/vavoo?id=216870633718bea9e17c0b
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | BFM HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | BFM HD
 https://goldvod.org/tv/vavoo?id=282620250617bf79c7c58b
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | BFM PARIS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | BFM PARIS
+https://goldvod.org/tv/vavoo?id=2180428480d00717ea16c0
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | BFM PARIS FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | BFM PARIS FHD
 https://goldvod.org/tv/vavoo?id=15537259663eeaf443b8c8
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | BFM TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | BFM TV
@@ -10620,6 +10706,8 @@ https://goldvod.org/tv/vavoo?id=4266098851addc08d35468
 https://goldvod.org/tv/vavoo?id=2930799000cd9ccb5e4641
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | BOING" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | BOING
 https://goldvod.org/tv/vavoo?id=69130693e2582f2056fe
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | BOING FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | BOING FHD
+https://goldvod.org/tv/vavoo?id=98339825943cbbe1cacf2
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | BOING HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | BOING HD
 https://goldvod.org/tv/vavoo?id=1437877006a40eff9edadf
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | BOOMERANG" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | BOOMERANG
@@ -10708,6 +10796,8 @@ https://goldvod.org/tv/vavoo?id=2257866792ce9b461da94a
 https://goldvod.org/tv/vavoo?id=3153361304c5404e3f2d00
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL PLAY 14" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL PLAY 14
 https://goldvod.org/tv/vavoo?id=164930952e4b00a3d6fd6
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL PLAY 15" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL PLAY 15
+https://goldvod.org/tv/vavoo?id=884247608dd93524f8cb9
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL PLAY 16" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL PLAY 16
 https://goldvod.org/tv/vavoo?id=193075376859e75e04d8da
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL PLAY 17" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL PLAY 17
@@ -10776,6 +10866,8 @@ https://goldvod.org/tv/vavoo?id=116160273261086bd8c99a
 https://goldvod.org/tv/vavoo?id=3625345371a7f0ef9f1db5
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL+ ELLES" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL+ ELLES
 https://goldvod.org/tv/vavoo?id=143458825547e0ee044094
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL+ F1 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL+ F1 FHD
+https://goldvod.org/tv/vavoo?id=401626311591b144b76e6a
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL+ FAMILY" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL+ FAMILY
 https://goldvod.org/tv/vavoo?id=27100018482cf9099bc7d2
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL+ FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL+ FHD
@@ -10818,6 +10910,10 @@ https://goldvod.org/tv/vavoo?id=296255235587d472eb18c8
 https://goldvod.org/tv/vavoo?id=1012399982f41e3c10e6d6
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL+ SPORT" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL+ SPORT
 https://goldvod.org/tv/vavoo?id=2391290436f997307577fc
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL+ SPORT 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL+ SPORT 2
+https://goldvod.org/tv/vavoo?id=48980802439499014d23
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL+ SPORT 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL+ SPORT 2
+https://goldvod.org/tv/vavoo?id=703788444097fa2380b28
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL+ SPORT 3" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL+ SPORT 3
 https://goldvod.org/tv/vavoo?id=1066093298273080f2f774
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CANAL+ SPORT 360" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CANAL+ SPORT 360
@@ -10973,6 +11069,8 @@ https://goldvod.org/tv/vavoo?id=2053910442ad820032ca57
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CRIBS MAISONS DE STAR" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CRIBS MAISONS DE STAR
 https://goldvod.org/tv/vavoo?id=39209772298f2649d42ed3
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CRIME DISTRICT" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CRIME DISTRICT
+https://goldvod.org/tv/vavoo?id=236492318925aad2d21a30
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CRIME DISTRICT" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CRIME DISTRICT
 https://goldvod.org/tv/vavoo?id=233249952949b217798c9e
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | CRIME DISTRICT" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | CRIME DISTRICT
 https://goldvod.org/tv/vavoo?id=26863556070010417e6d9d
@@ -11050,16 +11148,12 @@ https://goldvod.org/tv/vavoo?id=340454356536c0a44a2785
 https://goldvod.org/tv/vavoo?id=544346198527bd3b78b8b
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISCOVERY HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISCOVERY HD
 https://goldvod.org/tv/vavoo?id=23227602698e83521195f3
-#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISCOVERY INVESTIGATION" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISCOVERY INVESTIGATION
-https://goldvod.org/tv/vavoo?id=995275984c7ebfb454071
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISCOVERY INVESTIGATION HD
 https://goldvod.org/tv/vavoo?id=32229586744ada00839f84
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISCOVERY SCI-FI" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISCOVERY SCI-FI
 https://goldvod.org/tv/vavoo?id=4123762836e57cc77a37ae
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISCOVERY SCIENCE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISCOVERY SCIENCE
 https://goldvod.org/tv/vavoo?id=13916241181642741e7fb7
-#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISCOVERY SCIENCE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISCOVERY SCIENCE
-https://goldvod.org/tv/vavoo?id=1092400111134d4a3534ef
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISCOVERY SCIENCE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISCOVERY SCIENCE
 https://goldvod.org/tv/vavoo?id=27011456832d97fd3f96b1
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISCOVERY WORLD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISCOVERY WORLD
@@ -11094,6 +11188,8 @@ https://goldvod.org/tv/vavoo?id=357894050d7f96e94e22f
 https://goldvod.org/tv/vavoo?id=4072150322035a105f553c
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISNEY XD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISNEY XD
 https://goldvod.org/tv/vavoo?id=3237934255bfec4e787a8b
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISNEY XD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISNEY XD
+https://goldvod.org/tv/vavoo?id=13299406005657d2c035e2
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISNEY+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISNEY+
 https://goldvod.org/tv/vavoo?id=2427544834a3f2c10b9493
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | DISNEY+" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | DISNEY+
@@ -11120,6 +11216,8 @@ https://goldvod.org/tv/vavoo?id=3860273832eda2d30b583d
 https://goldvod.org/tv/vavoo?id=111705669174acd69bd4ea
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | EQUIDIA PRO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | EQUIDIA PRO
 https://goldvod.org/tv/vavoo?id=3637667969f1388d5c2d5b
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | ERE TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | ERE TV
+https://goldvod.org/tv/vavoo?id=1805253114d6c8954f8f01
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | EURO CHANNEL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | EURO CHANNEL
 https://goldvod.org/tv/vavoo?id=2887155497840539cae97
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | EURONEWS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | EURONEWS
@@ -11223,8 +11321,6 @@ https://goldvod.org/tv/vavoo?id=46629016e7679725def2
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | FREQUENCE NOVELAS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | FREQUENCE NOVELAS
 https://goldvod.org/tv/vavoo?id=3928989342f00a8fea8b34
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | GAME ONE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | GAME ONE
-https://goldvod.org/tv/vavoo?id=95927214794c633f7cf15
-#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | GAME ONE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | GAME ONE
 https://goldvod.org/tv/vavoo?id=22141630554906bb2fc4a4
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | GAME ONE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | GAME ONE
 https://goldvod.org/tv/vavoo?id=1479966396202ff806f8d8
@@ -11232,6 +11328,8 @@ https://goldvod.org/tv/vavoo?id=1479966396202ff806f8d8
 https://goldvod.org/tv/vavoo?id=352210002128b8d8ce3e1a
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | GENERATIONS TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | GENERATIONS TV
 https://goldvod.org/tv/vavoo?id=395874339442bcdf7f7639
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | GOLF CHANNEL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | GOLF CHANNEL
+https://goldvod.org/tv/vavoo?id=2672088867fd5fd7859b84
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | GOLF CHANNEL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | GOLF CHANNEL
 https://goldvod.org/tv/vavoo?id=765139465dd1569a49cdb
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | GOLF CHANNEL HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | GOLF CHANNEL HD
@@ -11258,6 +11356,8 @@ https://goldvod.org/tv/vavoo?id=344510952158e0924d57b0
 https://goldvod.org/tv/vavoo?id=39689712588404f896fddf
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | GULLI FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | GULLI FHD
 https://goldvod.org/tv/vavoo?id=20969815201649b55a02e0
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | HELENE & LES GARCONS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | HELENE & LES GARCONS
+https://goldvod.org/tv/vavoo?id=1137061018afa559b36d40
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | HISTOIRE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | HISTOIRE
 https://goldvod.org/tv/vavoo?id=2130335163f95e9021776
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | HISTOIRE HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | HISTOIRE HD
@@ -11400,6 +11500,8 @@ https://goldvod.org/tv/vavoo?id=1406674139a49b095e524f
 https://goldvod.org/tv/vavoo?id=22146575819dfdff73d7d7
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | MELODY SD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | MELODY SD
 https://goldvod.org/tv/vavoo?id=397731749366b9ee9a6933
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | MENS UP TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | MENS UP TV
+https://goldvod.org/tv/vavoo?id=374095274769dc983b81a7
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | MEZZO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | MEZZO
 https://goldvod.org/tv/vavoo?id=91561140446f390dc59d
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | MEZZO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | MEZZO
@@ -11516,8 +11618,6 @@ https://goldvod.org/tv/vavoo?id=32481930384d590f581e25
 https://goldvod.org/tv/vavoo?id=215687074c5e526fe2816
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | NOVELAS TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | NOVELAS TV
 https://goldvod.org/tv/vavoo?id=16260338528710828dbe45
-#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | NRJ 12" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | NRJ 12
-https://goldvod.org/tv/vavoo?id=419510080379db27b6767a
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | NRJ 12" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | NRJ 12
 https://goldvod.org/tv/vavoo?id=2127716293a7c02b99643e
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | NRJ 12" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | NRJ 12
@@ -11682,18 +11782,14 @@ https://goldvod.org/tv/vavoo?id=4178756073a17f0c491d58
 https://goldvod.org/tv/vavoo?id=3979463967a22e683a20e6
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RAKUTEN TV FILMS ACTION" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RAKUTEN TV FILMS ACTION
 https://goldvod.org/tv/vavoo?id=252645768879ab8512f291
-#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RAKUTEN TV FILMS DRAMES" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RAKUTEN TV FILMS DRAMES
-https://goldvod.org/tv/vavoo?id=855333159e466c317b673
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RAKUTEN TV FILMS FRANÇAIS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RAKUTEN TV FILMS FRANÇAIS
 https://goldvod.org/tv/vavoo?id=2216583438f9128cd60a25
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RAKUTEN TV FILMS THRILLER" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RAKUTEN TV FILMS THRILLER
 https://goldvod.org/tv/vavoo?id=59800311106826bd56b92
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RAKUTEN TV GUSTO TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RAKUTEN TV GUSTO TV
+https://goldvod.org/tv/vavoo?id=34184806827df1037defd3
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RAKUTEN TV LATELIER DES CHEFS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RAKUTEN TV LATELIER DES CHEFS
 https://goldvod.org/tv/vavoo?id=3643189038f63e601cf626
-#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RAKUTEN TV ROMANCE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RAKUTEN TV ROMANCE
-https://goldvod.org/tv/vavoo?id=31512084432c1668347f8
-#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RAKUTEN TV ROMANCE 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RAKUTEN TV ROMANCE 2
-https://goldvod.org/tv/vavoo?id=1889679296218b2c32f64e
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RAKUTEN TV SHOWS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RAKUTEN TV SHOWS
 https://goldvod.org/tv/vavoo?id=172311431624542720658f
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RAKUTEN TV TOP FILMS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RAKUTEN TV TOP FILMS
@@ -11728,12 +11824,14 @@ https://goldvod.org/tv/vavoo?id=2893363456b3ad7a65ff86
 https://goldvod.org/tv/vavoo?id=191610103b147fac6cea3
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 1 UHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 1 UHD
 https://goldvod.org/tv/vavoo?id=4198743891b3aa5f1b46ea
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 10" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 10
+https://goldvod.org/tv/vavoo?id=3658283022637e76be3562
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 10 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 10 [LIVE DURING EVENTS ONLY]
 https://goldvod.org/tv/vavoo?id=2195294466e7b94a1092d4
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 11 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 11 [LIVE DURING EVENTS ONLY]
 https://goldvod.org/tv/vavoo?id=235289851552be0bdeb8f5
-#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 12 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 12 [LIVE DURING EVENTS ONLY]
-https://goldvod.org/tv/vavoo?id=2669041824805cbe4659bb
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 12" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 12
+https://goldvod.org/tv/vavoo?id=269776779092e198e8fc15
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 13" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 13
 https://goldvod.org/tv/vavoo?id=7960862604c7f0da38151
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 14" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 14
@@ -11742,8 +11840,6 @@ https://goldvod.org/tv/vavoo?id=2639500260d2bc1d613f18
 https://goldvod.org/tv/vavoo?id=26877445960b0387b6b8e5
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 16" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 16
 https://goldvod.org/tv/vavoo?id=1431047598ad121808116b
-#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 16" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 16
-https://goldvod.org/tv/vavoo?id=38852199726fa0c900bb0d
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 17" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 17
 https://goldvod.org/tv/vavoo?id=3673418036295f31622f35
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 18" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 18
@@ -11770,6 +11866,8 @@ https://goldvod.org/tv/vavoo?id=5144435298d184e770b8e
 https://goldvod.org/tv/vavoo?id=3095783430fa0422f0a71
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 3" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 3
 https://goldvod.org/tv/vavoo?id=2299442456e853700b064a
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 3 ACCESS HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 3 ACCESS HD
+https://goldvod.org/tv/vavoo?id=457217631ff76abcd781
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 3 FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 3 FHD
 https://goldvod.org/tv/vavoo?id=21896277820a73bd6fa658
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | RMC SPORT 3 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | RMC SPORT 3 HD
@@ -11894,8 +11992,6 @@ https://goldvod.org/tv/vavoo?id=1257230029fb28a984d2a5
 https://goldvod.org/tv/vavoo?id=1308193291585ddd16837f
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | SPORT" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | SPORT
 https://goldvod.org/tv/vavoo?id=2611555727a6d71dd30596
-#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | SPORT EN FRANCE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | SPORT EN FRANCE
-https://goldvod.org/tv/vavoo?id=2793894290cd54f0356613
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | SPORT EN FRANCE FHD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | SPORT EN FRANCE FHD
 https://goldvod.org/tv/vavoo?id=28990515040b9592deaeeb
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | STINGRAY CMUSIC" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | STINGRAY CMUSIC
@@ -12050,6 +12146,8 @@ https://goldvod.org/tv/vavoo?id=814473941476083b06ccb
 https://goldvod.org/tv/vavoo?id=30343651343100cf58d048
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | USHUAÏA TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | USHUAÏA TV
 https://goldvod.org/tv/vavoo?id=1007869450b6a717e5f847
+#EXTINF:-1 tvg-id="None" tvg-name="FRANSA | VIAMIRABELLE TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | VIAMIRABELLE TV
+https://goldvod.org/tv/vavoo?id=919813798781bbe15e25e
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | VIAOCCITANIE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | VIAOCCITANIE
 https://goldvod.org/tv/vavoo?id=808825907cd460fbded92
 #EXTINF:-1 tvg-id="None" tvg-name="FRANSA | VOSGES TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", FRANSA | VOSGES TV
@@ -12704,6 +12802,8 @@ https://goldvod.org/tv/vavoo?id=1312693742a90242d11bd8
 https://goldvod.org/tv/vavoo?id=28755174678071a266e452
 #EXTINF:-1 tvg-id="None" tvg-name="POLONYA | CANAL SPORT 3 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | CANAL SPORT 3 HD
 https://goldvod.org/tv/vavoo?id=2190744944c44386bd9970
+#EXTINF:-1 tvg-id="None" tvg-name="POLONYA | CANAL SPORT 4 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | CANAL SPORT 4 HD
+https://goldvod.org/tv/vavoo?id=228701501707a1dcab71f0
 #EXTINF:-1 tvg-id="None" tvg-name="POLONYA | CANAL SPORT HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | CANAL SPORT HD
 https://goldvod.org/tv/vavoo?id=32731295506966c906670
 #EXTINF:-1 tvg-id="None" tvg-name="POLONYA | CANAL+ 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | CANAL+ 1
@@ -12736,6 +12836,8 @@ https://goldvod.org/tv/vavoo?id=42755822772b0785da795e
 https://goldvod.org/tv/vavoo?id=3293241225da191d1bbed6
 #EXTINF:-1 tvg-id="None" tvg-name="POLONYA | CANAL+ SPORT 3" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | CANAL+ SPORT 3
 https://goldvod.org/tv/vavoo?id=32836231570e5d35807626
+#EXTINF:-1 tvg-id="None" tvg-name="POLONYA | CANAL+ SPORT 4" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | CANAL+ SPORT 4
+https://goldvod.org/tv/vavoo?id=198665922526f9ffb85846
 #EXTINF:-1 tvg-id="None" tvg-name="POLONYA | CANAL+ SPORT 4" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | CANAL+ SPORT 4
 https://goldvod.org/tv/vavoo?id=1905836261d2b61c2c0344
 #EXTINF:-1 tvg-id="None" tvg-name="POLONYA | CANAL+ SPORT 5" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | CANAL+ SPORT 5
@@ -13132,6 +13234,8 @@ https://goldvod.org/tv/vavoo?id=424250877614f7e61dce6e
 https://goldvod.org/tv/vavoo?id=275913426219965b3384e3
 #EXTINF:-1 tvg-id="None" tvg-name="POLONYA | POLSAT SPORT EXTRA HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | POLSAT SPORT EXTRA HD
 https://goldvod.org/tv/vavoo?id=1624535514494e8fdc9dac
+#EXTINF:-1 tvg-id="None" tvg-name="POLONYA | POLSAT SPORT FIGHT" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | POLSAT SPORT FIGHT
+https://goldvod.org/tv/vavoo?id=6915506606cf8334903dc
 #EXTINF:-1 tvg-id="None" tvg-name="POLONYA | POLSAT SPORT FIGHT" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | POLSAT SPORT FIGHT
 https://goldvod.org/tv/vavoo?id=19054423307fa805289877
 #EXTINF:-1 tvg-id="None" tvg-name="POLONYA | POLSAT SPORT FIGHT HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", POLONYA | POLSAT SPORT FIGHT HD
@@ -13616,6 +13720,8 @@ https://goldvod.org/tv/vavoo?id=5210413649af808380459
 https://goldvod.org/tv/vavoo?id=181116367122f44bfc5c6f
 #EXTINF:-1 tvg-id="None" tvg-name="PORTEKİZ | FASHIONTV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", PORTEKİZ | FASHIONTV
 https://goldvod.org/tv/vavoo?id=3688799089b348adf8648b
+#EXTINF:-1 tvg-id="None" tvg-name="PORTEKİZ | FATIMA TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", PORTEKİZ | FATIMA TV
+https://goldvod.org/tv/vavoo?id=239550906605f2db26d23b
 #EXTINF:-1 tvg-id="None" tvg-name="PORTEKİZ | FIREMAN SAM" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", PORTEKİZ | FIREMAN SAM
 https://goldvod.org/tv/vavoo?id=25684012369ed1e8844c34
 #EXTINF:-1 tvg-id="None" tvg-name="PORTEKİZ | FOOD NETWORK" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", PORTEKİZ | FOOD NETWORK
@@ -13879,6 +13985,8 @@ https://goldvod.org/tv/vavoo?id=1966027521cfea3ee092b5
 #EXTINF:-1 tvg-id="None" tvg-name="PORTEKİZ | TOROS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", PORTEKİZ | TOROS
 https://goldvod.org/tv/vavoo?id=16196976980919a19eb333
 #EXTINF:-1 tvg-id="None" tvg-name="PORTEKİZ | TOROS TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", PORTEKİZ | TOROS TV
+https://goldvod.org/tv/vavoo?id=1243809524ae367b5e76b4
+#EXTINF:-1 tvg-id="None" tvg-name="PORTEKİZ | TOROS TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", PORTEKİZ | TOROS TV
 https://goldvod.org/tv/vavoo?id=784576657f26a88c3fce5
 #EXTINF:-1 tvg-id="None" tvg-name="PORTEKİZ | TPA NOTÍCIAS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", PORTEKİZ | TPA NOTÍCIAS
 https://goldvod.org/tv/vavoo?id=36630014238cc0216ae1e6
@@ -13970,6 +14078,8 @@ https://goldvod.org/tv/vavoo?id=3466104099f53ca414d90b
 https://goldvod.org/tv/vavoo?id=20630502157ec02a48f550
 #EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png" group-title="DÜNYA KANALLARI 🌍", ROMANYA | ANIMAL PLANET
 https://goldvod.org/tv/vavoo?id=1363942994986bd624fd0f
+#EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png" group-title="DÜNYA KANALLARI 🌍", ROMANYA | ANIMAL PLANET HD
+https://goldvod.org/tv/vavoo?id=3888491987715b0457fa48
 #EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | ANTENA 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ROMANYA | ANTENA 1
 https://goldvod.org/tv/vavoo?id=1878508890603df904e72d
 #EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | ANTENA 1 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ROMANYA | ANTENA 1 HD
@@ -14044,6 +14154,8 @@ https://goldvod.org/tv/vavoo?id=2299973176ee5710fe76a
 https://goldvod.org/tv/vavoo?id=1219133865f2e54935b978
 #EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | CINEMARATON" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ROMANYA | CINEMARATON
 https://goldvod.org/tv/vavoo?id=3275610158b68dd7012819
+#EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | CINEMARATON HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ROMANYA | CINEMARATON HD
+https://goldvod.org/tv/vavoo?id=257305557593c860f6f3f5
 #EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | CINEMAX" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ROMANYA | CINEMAX
 https://goldvod.org/tv/vavoo?id=3794748066d6f43851bd2a
 #EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | CINEMAX 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ROMANYA | CINEMAX 2
@@ -14390,8 +14502,6 @@ https://goldvod.org/tv/vavoo?id=2829106219aaeaf001995
 https://goldvod.org/tv/vavoo?id=2321872319a479678d2f89
 #EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | TV 1000" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ROMANYA | TV 1000
 https://goldvod.org/tv/vavoo?id=39510261282aab5bc55a8b
-#EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | TV5 MONDE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ROMANYA | TV5 MONDE
-https://goldvod.org/tv/vavoo?id=3858087604812af36b8b3a
 #EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | TVR 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ROMANYA | TVR 1
 https://goldvod.org/tv/vavoo?id=1781455170a9b3b72ab40e
 #EXTINF:-1 tvg-id="None" tvg-name="ROMANYA | TVR 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ROMANYA | TVR 1
@@ -14908,8 +15018,6 @@ https://goldvod.org/tv/vavoo?id=3456277187ae9c2865dd14
 https://goldvod.org/tv/vavoo?id=2574900283a9feac2d9758
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | SHOT TV HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | SHOT TV HD
 https://goldvod.org/tv/vavoo?id=2500910818e469ce3e2826
-#EXTINF:-1 tvg-id="None" tvg-name="RUSYA | SONY SCI-FI" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | SONY SCI-FI
-https://goldvod.org/tv/vavoo?id=4084914450c5d553d5196
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | SONY TURBO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | SONY TURBO
 https://goldvod.org/tv/vavoo?id=3515755195dd9422757627
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | SOVERSHENNO SEKRETNO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | SOVERSHENNO SEKRETNO
@@ -15032,12 +15140,6 @@ https://goldvod.org/tv/vavoo?id=38605680539f8841062a0a
 https://goldvod.org/tv/vavoo?id=406064253756dd50579cb0
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | БЕЛАРУСЬ 24" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | БЕЛАРУСЬ 24
 https://goldvod.org/tv/vavoo?id=1750473072580811c0e977
-#EXTINF:-1 tvg-id="None" tvg-name="RUSYA | БЕЛРОС" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | БЕЛРОС
-https://goldvod.org/tv/vavoo?id=808389630b0bf0bea6e0f
-#EXTINF:-1 tvg-id="None" tvg-name="RUSYA | БОКС ТВ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | БОКС ТВ
-https://goldvod.org/tv/vavoo?id=37401324358863d1a363de
-#EXTINF:-1 tvg-id="None" tvg-name="RUSYA | В ГОСТЯХ У СКАЗКИ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | В ГОСТЯХ У СКАЗКИ
-https://goldvod.org/tv/vavoo?id=17080132946bd8a5aa59e5
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | ВАШ УСПЕХ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | ВАШ УСПЕХ
 https://goldvod.org/tv/vavoo?id=139896065677895845fec1
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | ВОЛГОГРАД 24" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | ВОЛГОГРАД 24
@@ -15058,6 +15160,8 @@ https://goldvod.org/tv/vavoo?id=16185204899228b9916629
 https://goldvod.org/tv/vavoo?id=9139538248e1a0494ca00
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | ДОМ КИНО" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | ДОМ КИНО
 https://goldvod.org/tv/vavoo?id=3014432004a10b46067227
+#EXTINF:-1 tvg-id="None" tvg-name="RUSYA | ДОМ КИНО ПРЕМИУМ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | ДОМ КИНО ПРЕМИУМ
+https://goldvod.org/tv/vavoo?id=30649329198f1b5f55fdb
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | ДОМАШНИЕ ЖИВОТНЫЕ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | ДОМАШНИЕ ЖИВОТНЫЕ
 https://goldvod.org/tv/vavoo?id=4879857419ea9e365bea9
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | ДОМАШНИЙ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | ДОМАШНИЙ
@@ -15360,8 +15464,6 @@ https://goldvod.org/tv/vavoo?id=98041898efe3bc889a81
 https://goldvod.org/tv/vavoo?id=39477320814354da7a3f7f
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | ТНВ‑ПЛАНЕТА" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | ТНВ‑ПЛАНЕТА
 https://goldvod.org/tv/vavoo?id=289420819de3eb3b023e7
-#EXTINF:-1 tvg-id="None" tvg-name="RUSYA | ТНТ" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | ТНТ
-https://goldvod.org/tv/vavoo?id=371099324285e376d4d45c
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | ТНТ MUSIC" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | ТНТ MUSIC
 https://goldvod.org/tv/vavoo?id=3783797318d9b7d3edde28
 #EXTINF:-1 tvg-id="None" tvg-name="RUSYA | ТНТ4" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", RUSYA | ТНТ4
@@ -15661,6 +15763,8 @@ https://goldvod.org/tv/vavoo?id=85263780203a8bbb82728
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | DESI RADIO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | DESI RADIO
 https://goldvod.org/tv/vavoo?id=1060350297ec72d74a0196
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | DISCOVERY CHANNEL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | DISCOVERY CHANNEL
+https://goldvod.org/tv/vavoo?id=415538164205e5902b4d99
+#EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | DISCOVERY CHANNEL" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | DISCOVERY CHANNEL
 https://goldvod.org/tv/vavoo?id=3783739771303538919cc6
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | DISCOVERY HISTORY" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | DISCOVERY HISTORY
 https://goldvod.org/tv/vavoo?id=1151638913fc083d3d1b49
@@ -15946,8 +16050,6 @@ https://goldvod.org/tv/vavoo?id=34827081176ea121377bfc
 https://goldvod.org/tv/vavoo?id=2306935132e49c91b5b14e
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | MOTORSPORT TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | MOTORSPORT TV
 https://goldvod.org/tv/vavoo?id=394932367990a860868fb5
-#EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | MOVIES4MEN" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | MOVIES4MEN
-https://goldvod.org/tv/vavoo?id=6820125966d40cc07084e
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | MTA-MUSLIM TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | MTA-MUSLIM TV
 https://goldvod.org/tv/vavoo?id=238118749d4c4f6ee2129
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | MTV 80S" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | MTV 80S
@@ -16181,8 +16283,6 @@ https://goldvod.org/tv/vavoo?id=89366923c728d20afdb5
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | SKY CINEMA SELECT" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | SKY CINEMA SELECT
 https://goldvod.org/tv/vavoo?id=326827898399339025566
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | SKY CINEMA THRILLER" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | SKY CINEMA THRILLER
-https://goldvod.org/tv/vavoo?id=14073364521ceb6967f195
-#EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | SKY CINEMA THRILLER" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | SKY CINEMA THRILLER
 https://goldvod.org/tv/vavoo?id=27120769207d4e2fe1aee2
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | SKY CRIME" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | SKY CRIME
 https://goldvod.org/tv/vavoo?id=330376435488a0c83986b4
@@ -16414,8 +16514,6 @@ https://goldvod.org/tv/vavoo?id=383994846657b811122d45
 https://goldvod.org/tv/vavoo?id=1785681333a4e9534db8dd
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | WRN EUROPE" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | WRN EUROPE
 https://goldvod.org/tv/vavoo?id=2555371518f24398bb8b13
-#EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | WWE HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | WWE HD
-https://goldvod.org/tv/vavoo?id=3698596740928f7f753045
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | YESTERDAY" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | YESTERDAY
 https://goldvod.org/tv/vavoo?id=962941579426689c4b5e1
 #EXTINF:-1 tvg-id="None" tvg-name="İNGİLTERE | YESTERDAY" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İNGİLTERE | YESTERDAY
@@ -16426,8 +16524,6 @@ https://goldvod.org/tv/vavoo?id=198735331357efd2ecbe5f
 https://goldvod.org/tv/vavoo?id=35954386963d31806aecbc
 #EXTINF:-1 tvg-id="None" tvg-name="---------- 🇪🇸 İSPANYA KANALLARI ----------" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", ---------- 🇪🇸 İSPANYA KANALLARI ----------
 https://info.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | 101 TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | 101 TV
-https://goldvod.org/tv/vavoo?id=30427342977e1807c6362f
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | 13 TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | 13 TV
 https://goldvod.org/tv/vavoo?id=1066305614e1357b5808fd
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | 24 HORAS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | 24 HORAS
@@ -16454,8 +16550,6 @@ https://goldvod.org/tv/vavoo?id=146272350204fef2b1fdad
 https://goldvod.org/tv/vavoo?id=3137067513c74a30090b3f
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | AMC HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | AMC HD
 https://goldvod.org/tv/vavoo?id=1940642395ece0dbc0c8c9
-#EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | ANDORRA TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | ANDORRA TV
-https://goldvod.org/tv/vavoo?id=12491746146217fea033e1
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | ANTENA 3" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | ANTENA 3
 https://goldvod.org/tv/vavoo?id=25467937094e62daa8fca
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | ANTENA 3 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | ANTENA 3 HD
@@ -16484,6 +16578,8 @@ https://goldvod.org/tv/vavoo?id=14488059614bec642e0149
 https://goldvod.org/tv/vavoo?id=1979280950e8eaa1c7f5cd
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | BARCA TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | BARCA TV
 https://goldvod.org/tv/vavoo?id=2697778342b1eac8347bab
+#EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | BARCA TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | BARCA TV
+https://goldvod.org/tv/vavoo?id=109705859443d9c45942d6
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | BE MAD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | BE MAD
 https://goldvod.org/tv/vavoo?id=22905730cc9bb8eaf653
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | BE MAD HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | BE MAD HD
@@ -16702,8 +16798,6 @@ https://goldvod.org/tv/vavoo?id=441554993480a547ec912
 https://goldvod.org/tv/vavoo?id=4674414951a2a93a9b641
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | GOL TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | GOL TV
 https://goldvod.org/tv/vavoo?id=144730041936fc8399828e
-#EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | GOL TV HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | GOL TV HD
-https://goldvod.org/tv/vavoo?id=4165524123220ab279d403
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | GRAN HERMANO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | GRAN HERMANO
 https://goldvod.org/tv/vavoo?id=8979422162d5b6732949c
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | HBO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | HBO
@@ -16828,6 +16922,8 @@ https://goldvod.org/tv/vavoo?id=851881305a0fa02c31df2
 https://goldvod.org/tv/vavoo?id=262571241af1412d0bd59
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | MOVISTAR LIGA DE CAMPEONES
 https://goldvod.org/tv/vavoo?id=12757844343f601bb69fdf
+#EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | MOVISTAR LIGA DE CAMPEONES 1 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | MOVISTAR LIGA DE CAMPEONES 1 HD
+https://goldvod.org/tv/vavoo?id=1079960250bf7fa0932bdc
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | MOVISTAR LIGA DE CAMPEONES 2 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | MOVISTAR LIGA DE CAMPEONES 2 HD
 https://goldvod.org/tv/vavoo?id=99407471309612174606f
 #EXTINF:-1 tvg-id="None" tvg-name="İSPANYA | MOVISTAR LIGA DE CAMPEONES 3 HD" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İSPANYA | MOVISTAR LIGA DE CAMPEONES 3 HD
@@ -17138,6 +17234,8 @@ https://goldvod.org/tv/vavoo?id=12254846645cb5a95a1f30
 https://goldvod.org/tv/vavoo?id=4137427510ef362e6435fc
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | CRIME + INV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | CRIME + INV
 https://goldvod.org/tv/vavoo?id=196833914960066715a573
+#EXTINF:-1 tvg-id="None" tvg-name="İTALYA | CRIME+ INVESTIGATION" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | CRIME+ INVESTIGATION
+https://goldvod.org/tv/vavoo?id=30052277008e849440ee94
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | CUSANO ITALIA TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | CUSANO ITALIA TV
 https://goldvod.org/tv/vavoo?id=315609263941db18c5ca85
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | DAZN" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | DAZN
@@ -17226,6 +17324,8 @@ https://goldvod.org/tv/vavoo?id=237393618912929d56c67e
 https://goldvod.org/tv/vavoo?id=40604994550f228d5b9b59
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | GLOBUS TELEVISION" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | GLOBUS TELEVISION
 https://goldvod.org/tv/vavoo?id=2116902817eb437d88bab6
+#EXTINF:-1 tvg-id="None" tvg-name="İTALYA | GOLD TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | GOLD TV
+https://goldvod.org/tv/vavoo?id=2854396316c4fc7fe60f75
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | GRANDUCATO" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | GRANDUCATO
 https://goldvod.org/tv/vavoo?id=9421530140b5164a467be
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | HGTV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | HGTV
@@ -17234,10 +17334,14 @@ https://goldvod.org/tv/vavoo?id=28977827817ceeecfaf662
 https://goldvod.org/tv/vavoo?id=42489970292d2930202d0e
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | HISTORY" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | HISTORY
 https://goldvod.org/tv/vavoo?id=3178376547e2dcc234152
+#EXTINF:-1 tvg-id="None" tvg-name="İTALYA | HISTORY" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | HISTORY
+https://goldvod.org/tv/vavoo?id=2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | ICARO TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | ICARO TV
 https://goldvod.org/tv/vavoo?id=24880174054972ad3227fa
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | ICARO TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | ICARO TV
 https://goldvod.org/tv/vavoo?id=2392139008947764078821
+#EXTINF:-1 tvg-id="None" tvg-name="İTALYA | INTER TV" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | INTER TV
+https://goldvod.org/tv/vavoo?id=29737730766a27b9a63e21
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | IRIS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | IRIS
 https://goldvod.org/tv/vavoo?id=576490047036ac0227958
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | ITALIA 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | ITALIA 1
@@ -17298,10 +17402,6 @@ https://goldvod.org/tv/vavoo?id=633342961994dc5083ad5
 https://goldvod.org/tv/vavoo?id=313448120145a6443975e1
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | MEDIASET EXTRA" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | MEDIASET EXTRA
 https://goldvod.org/tv/vavoo?id=4774665319f73c392df0e
-#EXTINF:-1 tvg-id="None" tvg-name="İTALYA | MEDIASET INFINITY+ 1" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | MEDIASET INFINITY+ 1
-https://goldvod.org/tv/vavoo?id=3599959739ed5ed2f1f0cd
-#EXTINF:-1 tvg-id="None" tvg-name="İTALYA | MEDIASET INFINITY+ 2" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | MEDIASET INFINITY+ 2
-https://goldvod.org/tv/vavoo?id=2436070507988d651c6548
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | MEDIASET INFINITY+ 5" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | MEDIASET INFINITY+ 5
 https://goldvod.org/tv/vavoo?id=588488827b855babc9df4
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | MEDIASET IRIS" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | MEDIASET IRIS
@@ -17566,8 +17666,6 @@ https://goldvod.org/tv/vavoo?id=2221901869db7a5b77a267
 https://goldvod.org/tv/vavoo?id=18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | SKY PRIMAFILA 15" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | SKY PRIMAFILA 15
 https://goldvod.org/tv/vavoo?id=911168573d54b185731b5
-#EXTINF:-1 tvg-id="None" tvg-name="İTALYA | SKY PRIMAFILA 16" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | SKY PRIMAFILA 16
-https://goldvod.org/tv/vavoo?id=191150052585174f4ea582
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | SKY PRIMAFILA 17" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | SKY PRIMAFILA 17
 https://goldvod.org/tv/vavoo?id=1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="None" tvg-name="İTALYA | SKY PRIMAFILA 18" tvg-logo="" group-title="DÜNYA KANALLARI 🌍", İTALYA | SKY PRIMAFILA 18
